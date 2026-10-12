@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1180" viewBox="0 0 1800 1180"><defs><marker id="a2a78d6" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2a78d6"/></marker><marker id="ad9602b" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d9602b"/></marker><marker id="a16925f" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16925f"/></marker><marker id="a6b6a66" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6b6a66"/></marker></defs><rect width="1800" height="1180" fill="#ffffff"/>
+<text x="60" y="62" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1c1c1b" text-anchor="start">Error cascade recognition for PLC alarm logs</text>
+<text x="60" y="92" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#55544f" text-anchor="start">From a daily alarm export to alerts grouped into chains, without labels or hand-written rules</text>
+<rect x="40" y="120" width="1720" height="190" rx="14" fill="#f4f4f2"/>
+<text x="62" y="152" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6b6a66" text-anchor="start">1 · ALARM EXPORT AND PREPARATION</text>
+<rect x="80" y="175" width="470" height="110" rx="10" fill="#ffffff" stroke="#6b6a66" stroke-width="2"/>
+<text x="315.0" y="212.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">SCADA alarm export</text>
+<text x="315.0" y="236.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">one CSV per PLC per day</text>
+<text x="315.0" y="256.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alertId · alertBegin · alertEnd · alertText · alertPlc</text>
+<rect x="660" y="175" width="470" height="110" rx="10" fill="#ffffff" stroke="#6b6a66" stroke-width="2"/>
+<text x="895.0" y="212.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Preparation</text>
+<text x="895.0" y="236.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">timestamps to nanoseconds, duration recomputed</text>
+<text x="895.0" y="256.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">category 0/1/2 · hour of day</text>
+<rect x="1240" y="175" width="480" height="110" rx="10" fill="#ffffff" stroke="#6b6a66" stroke-width="2"/>
+<text x="1480.0" y="212.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Two views of every alert</text>
+<text x="1480.0" y="236.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">when it fired (alertBegin)</text>
+<text x="1480.0" y="256.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">what it says (alertText)</text>
+<path d="M550,230.0 L654,230.0" fill="none" stroke="#6b6a66" stroke-width="2.2"  marker-end="url(#a6b6a66)"/>
+<path d="M1130,230.0 L1234,230.0" fill="none" stroke="#6b6a66" stroke-width="2.2"  marker-end="url(#a6b6a66)"/>
+<rect x="40" y="335" width="1720" height="395" rx="14" fill="#eef4fc"/>
+<text x="62" y="367" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#2a78d6" text-anchor="start">2 · THREE MODELS</text>
+<text x="345.0" y="400" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#2a78d6" text-anchor="middle">Model 1 · when</text>
+<text x="900.0" y="400" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#d9602b" text-anchor="middle">Model 2 · what</text>
+<text x="1455.0" y="400" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#16925f" text-anchor="middle">Model 3 · both</text>
+<rect x="80" y="420" width="530" height="100" rx="10" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="345.0" y="452.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">DBSCAN on alertBegin</text>
+<text x="345.0" y="476.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">inside each hour of the day</text>
+<text x="345.0" y="496.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alerts within 200 ms join one group</text>
+<rect x="80" y="560" width="530" height="130" rx="10" fill="#f7faff" stroke="#2a78d6" stroke-width="2"/>
+<text x="345.0" y="597.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Output</text>
+<text x="345.0" y="621.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">Cluster  (-1 = isolated alert)</text>
+<text x="345.0" y="641.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alert_combined = hour_cluster</text>
+<text x="345.0" y="661.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alerts that fired together</text>
+<rect x="635" y="420" width="255" height="100" rx="10" fill="#ffffff" stroke="#d9602b" stroke-width="2"/>
+<text x="762.5" y="452.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">BERT</text>
+<text x="762.5" y="476.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">CLS vector, 768 dim</text>
+<text x="762.5" y="496.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">batches of 256</text>
+<rect x="910" y="420" width="255" height="100" rx="10" fill="#ffffff" stroke="#d9602b" stroke-width="2"/>
+<text x="1037.5" y="452.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Autoencoder</text>
+<text x="1037.5" y="476.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">768 › 500 › 200 › 10</text>
+<text x="1037.5" y="496.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">the DEC step</text>
+<rect x="635" y="560" width="530" height="130" rx="10" fill="#fffaf6" stroke="#d9602b" stroke-width="2"/>
+<text x="900.0" y="597.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">HDBSCAN on the latent space</text>
+<text x="900.0" y="621.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">Text_Cluster</text>
+<text x="900.0" y="641.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alerts that mean the same thing</text>
+<text x="900.0" y="661.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">new days: approximate_predict</text>
+<rect x="1190" y="420" width="530" height="100" rx="10" fill="#ffffff" stroke="#16925f" stroke-width="2"/>
+<text x="1455.0" y="452.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Merge on alertId</text>
+<text x="1455.0" y="476.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">Text_Cluster · Cluster · duration · band stop</text>
+<text x="1455.0" y="496.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">category · hour · alertId</text>
+<rect x="1190" y="560" width="530" height="130" rx="10" fill="#f6fbf8" stroke="#16925f" stroke-width="2"/>
+<text x="1455.0" y="597.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">StandardScaler › PCA(6) › MiniBatchKMeans(10)</text>
+<text x="1455.0" y="621.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">partial_fit per PLC, never retrained</text>
+<text x="1455.0" y="641.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">Final_Cluster</text>
+<text x="1455.0" y="661.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alerts to look at together</text>
+<path d="M345.0,520 L345.0,554" fill="none" stroke="#2a78d6" stroke-width="2.2"  marker-end="url(#a2a78d6)"/>
+<path d="M890,470 L904,470" fill="none" stroke="#d9602b" stroke-width="2.2"  marker-end="url(#ad9602b)"/>
+<path d="M1037,520 L1037,554" fill="none" stroke="#d9602b" stroke-width="2.2"  marker-end="url(#ad9602b)"/>
+<path d="M1455.0,520 L1455.0,554" fill="none" stroke="#16925f" stroke-width="2.2"  marker-end="url(#a16925f)"/>
+<path d="M345.0,690 L345.0,712" fill="none" stroke="#16925f" stroke-width="2.2" stroke-dasharray="6 5"/>
+<path d="M900.0,690 L900.0,712" fill="none" stroke="#16925f" stroke-width="2.2" stroke-dasharray="6 5"/>
+<path d="M345.0,712 L1177,712 L1177,470 L1184,470" fill="none" stroke="#16925f" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#a16925f)"/>
+<path d="M1480,287 L1480,322 L60,322" fill="none" stroke="#6b6a66" stroke-width="2.2" stroke-dasharray="6 5"/>
+<path d="M60,322 L60,470 L74,470" fill="none" stroke="#6b6a66" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#a6b6a66)"/>
+<path d="M762,322 L762,414" fill="none" stroke="#6b6a66" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#a6b6a66)"/>
+<rect x="40" y="755" width="1720" height="395" rx="14" fill="#ebf7f1"/>
+<text x="62" y="787" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#16925f" text-anchor="start">3 · THE APPLICATION (Central Logging)</text>
+<rect x="80" y="815" width="300" height="110" rx="10" fill="#ffffff" stroke="#16925f" stroke-width="2"/>
+<text x="230.0" y="852.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Input_PLC</text>
+<text x="230.0" y="876.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">daily files dropped in</text>
+<text x="230.0" y="896.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">backup kept per run</text>
+<rect x="440" y="815" width="420" height="110" rx="10" fill="#ffffff" stroke="#16925f" stroke-width="2"/>
+<text x="650.0" y="852.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">main.py</text>
+<text x="650.0" y="876.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">runs the four stages per file</text>
+<text x="650.0" y="896.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">time › embeddings › text › combine</text>
+<rect x="920" y="815" width="300" height="110" rx="10" fill="#ffffff" stroke="#16925f" stroke-width="2"/>
+<text x="1070.0" y="852.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Output_PLC</text>
+<text x="1070.0" y="876.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">one clustered CSV</text>
+<text x="1070.0" y="896.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">per PLC and day</text>
+<rect x="1280" y="815" width="440" height="110" rx="10" fill="#ffffff" stroke="#d9602b" stroke-width="2"/>
+<text x="1500.0" y="852.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Dashboard</text>
+<text x="1500.0" y="876.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">one page over Output_PLC</text>
+<text x="1500.0" y="896.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">groups per PLC and day</text>
+<path d="M380,870 L434,870" fill="none" stroke="#16925f" stroke-width="2.2"  marker-end="url(#a16925f)"/>
+<path d="M860,870 L914,870" fill="none" stroke="#16925f" stroke-width="2.2"  marker-end="url(#a16925f)"/>
+<path d="M1220,870 L1274,870" fill="none" stroke="#d9602b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#ad9602b)"/>
+<rect x="80" y="970" width="300" height="140" rx="10" fill="#ffffff" stroke="#6b6a66" stroke-width="2"/>
+<text x="230.0" y="1012.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Offline install</text>
+<text x="230.0" y="1036.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">wheel + local wheelhouse</text>
+<text x="230.0" y="1056.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">BERT from a local cache</text>
+<text x="230.0" y="1076.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">servers without internet</text>
+<rect x="440" y="970" width="420" height="140" rx="10" fill="#ffffff" stroke="#6b6a66" stroke-width="2"/>
+<text x="650.0" y="1002.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Logs.csv</text>
+<text x="650.0" y="1026.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">per file and stage: Passed (time) / Failed</text>
+<text x="650.0" y="1046.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">failed file › Error_Files</text>
+<text x="650.0" y="1066.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">rerun skips stages that passed</text>
+<text x="650.0" y="1086.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">entries kept 7 days</text>
+<rect x="920" y="970" width="300" height="140" rx="10" fill="#ffffff" stroke="#16925f" stroke-width="2"/>
+<text x="1070.0" y="1012.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Saved models</text>
+<text x="1070.0" y="1036.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">scaler · autoencoder</text>
+<text x="1070.0" y="1056.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">HDBSCAN · PCA · KMeans</text>
+<text x="1070.0" y="1076.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">updated, not retrained</text>
+<rect x="1280" y="970" width="440" height="140" rx="10" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<text x="1500.0" y="1002.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1c1c1b" text-anchor="middle">Multi-PLC mode</text>
+<text x="1500.0" y="1026.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">Input_Multi_PLC, all PLCs together</text>
+<text x="1500.0" y="1046.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">alerts within ±0.05 s › DBSCAN</text>
+<text x="1500.0" y="1066.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">mixedAlertPlc flags groups</text>
+<text x="1500.0" y="1086.0" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#55544f" text-anchor="middle">that span several PLCs</text>
+<path d="M650,925 L650,964" fill="none" stroke="#6b6a66" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#a6b6a66)"/>
+<path d="M800,925 L800,947 L1070,947 L1070,964" fill="none" stroke="#16925f" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#a16925f)"/>
+</svg>
