@@ -1,0 +1,1782 @@
+alertText,Text_Cluster,family,alerts
+QS1 Pruefung 6 nicht in Ordnung,-1,quality,690
+AB3 Absaugung 17 Unterdruck fehlt,-1,media,440
+MW2 Messwert 2 unplausibel,-1,quality,383
+KA1 Kamera 6 Auswertung nicht moeglich,-1,sensor,382
+VE9 Ventil 18 ohne Rueckmeldung,-1,pneumatic,340
+NA6 Nacharbeit 10 angefordert,-1,quality,194
+KA2 Kamera 2 Auswertung nicht moeglich,-1,sensor,189
+QS6 Pruefung 3 nicht in Ordnung,-1,quality,151
+DR9 Druckluft 11 unter Mindestdruck,-1,pneumatic,120
+RB7 Roboter 13 nicht in Grundstellung,-1,robot,113
+WE5 Wartungseinheit 11 Filter zugesetzt,-1,pneumatic,91
+KA1 Kamera 13 Auswertung nicht moeglich,-1,sensor,76
+ID8 Bauteilkennung 7 nicht lesbar,-1,quality,51
+SPN6 Spanner 10 Endlage auf fehlt,-1,clamp,49
+WW6 Werkzeugwechsler 12 ohne Quittung,-1,robot,37
+ZH6 Zweihandbedienung 2 gestoert,-1,safety,36
+AB7 Absaugung 16 Unterdruck fehlt,-1,media,33
+OR5 Werker 2 Eingriff angefordert,-1,organization,33
+OR7 Werker 6 Eingriff angefordert,-1,organization,32
+NA1 Nacharbeit 17 angefordert,-1,quality,29
+NW3 Teilnehmer 5 Kommunikation gestoert,-1,misc,29
+OR3 Schichtwechsel Bereich 4,-1,organization,29
+SY2 Meldung 6 ohne Text,-1,misc,29
+SY8 Diagnosespeicher 8 voll,-1,misc,28
+TV4 Zugangstor 9 nicht verriegelt,-1,safety,28
+MF3 Messfuehler 19 Wert ausserhalb Bereich,-1,sensor,26
+OR8 Wartung Station 9 geplant,-1,organization,26
+SY5 Diagnosespeicher 2 voll,-1,misc,26
+AB8 Absaugung 2 Unterdruck fehlt,-1,media,25
+LK9 Leckage 10 erkannt,-1,media,25
+BR2 Haltebremse Achse 20 oeffnet nicht,-1,drive,24
+MW5 Messwert 3 unplausibel,-1,quality,24
+ZH6 Zweihandbedienung 10 gestoert,-1,safety,23
+AB9 Absaugung 6 Unterdruck fehlt,-1,media,20
+FB3 Foerderband 9 Stau erkannt,-1,conveyor,19
+AB1 Absaugung 15 Unterdruck fehlt,-1,media,17
+FU4 Umrichter 7 Ueberstrom,-1,drive,17
+MA9 Material 10 fehlt am Platz,-1,organization,17
+ZH1 Zweihandbedienung 17 gestoert,-1,safety,17
+SR6 Sicherheitsrelais 9 hat abgeschaltet,-1,safety,16
+SE4 Sensor 16 Abgleich erforderlich,-1,sensor,15
+SY3 Meldung 9 ohne Text,-1,misc,15
+VE9 Ventil 7 ohne Rueckmeldung,-1,pneumatic,15
+LA6 Auslagern 1 blockiert,-1,buffer,14
+WE2 Wartungseinheit 6 Filter zugesetzt,-1,pneumatic,14
+MF5 Messfuehler 2 Wert ausserhalb Bereich,-1,sensor,13
+MO6 Motor 6 Uebertemperatur,-1,drive,13
+TL8 Toleranz 15 ueberschritten,-1,quality,13
+TV4 Zugangstor 18 nicht verriegelt,-1,safety,13
+KA1 Kamera 1 Auswertung nicht moeglich,-1,sensor,12
+KA5 Kamera 1 Auswertung nicht moeglich,-1,sensor,12
+KA5 Kamera 6 Auswertung nicht moeglich,-1,sensor,12
+MA7 Material 11 fehlt am Platz,-1,organization,12
+MW7 Messwert 13 unplausibel,-1,quality,12
+NA2 Nacharbeit 7 angefordert,-1,quality,12
+OR9 Wartung Station 2 geplant,-1,organization,12
+RB6 Roboter 12 Bahnabweichung,-1,robot,12
+SR8 Sicherheitsrelais 11 hat abgeschaltet,-1,safety,12
+LA8 Auslagern 7 blockiert,-1,buffer,11
+MA4 Material 15 fehlt am Platz,-1,organization,11
+MA8 Material 13 fehlt am Platz,-1,organization,11
+OR6 Werker 19 Eingriff angefordert,-1,organization,11
+SE9 Sensor 20 Abgleich erforderlich,-1,sensor,11
+VR6 Verriegelung 8 nicht in Position,-1,clamp,11
+FB8 Foerderband 12 Stau erkannt,-1,conveyor,10
+FU5 Umrichter 3 Ueberstrom,-1,drive,10
+ID3 Bauteilkennung 20 nicht lesbar,-1,quality,10
+IS6 Initiator 4 kein Signal,-1,sensor,10
+LS2 Lichtschranke 6 verschmutzt,-1,sensor,10
+MF4 Messfuehler 3 Wert ausserhalb Bereich,-1,sensor,10
+NH2 Not-Halt Kreis 17 betaetigt,-1,safety,10
+OR6 Schichtwechsel Bereich 8,-1,organization,10
+OR8 Schichtwechsel Bereich 12,-1,organization,10
+RB5 Roboter 20 Bahnabweichung,-1,robot,10
+SA5 Achse 10 Schleppabstand zu gross,-1,drive,10
+SR5 Sicherheitsrelais 14 hat abgeschaltet,-1,safety,10
+SR6 Sicherheitsrelais 6 hat abgeschaltet,-1,safety,10
+VR9 Verriegelung 20 nicht in Position,-1,clamp,10
+BR8 Haltebremse Achse 5 oeffnet nicht,-1,drive,9
+FB8 Foerderband 6 Sensor dauernd belegt,-1,conveyor,9
+LS4 Lichtschranke 19 verschmutzt,-1,sensor,9
+LS8 Lichtschranke 10 verschmutzt,-1,sensor,9
+MF4 Messfuehler 1 Wert ausserhalb Bereich,-1,sensor,9
+MF5 Messfuehler 20 Wert ausserhalb Bereich,-1,sensor,9
+MW4 Messwert 1 unplausibel,-1,quality,9
+NH8 Not-Halt Kreis 20 betaetigt,-1,safety,9
+OR4 Wartung Station 16 geplant,-1,organization,9
+OR4 Werker 18 Eingriff angefordert,-1,organization,9
+OR7 Werker 1 Eingriff angefordert,-1,organization,9
+OR8 Werker 16 Eingriff angefordert,-1,organization,9
+SY8 Meldung 8 ohne Text,-1,misc,9
+TV7 Zugangstor 18 nicht verriegelt,-1,safety,9
+ZH6 Zweihandbedienung 14 gestoert,-1,safety,9
+BR8 Haltebremse Achse 15 oeffnet nicht,-1,drive,8
+DR6 Druckluft 19 unter Mindestdruck,-1,pneumatic,8
+GR1 Greifer 9 meldet kein Teil,-1,robot,8
+GR6 Greifer 10 meldet kein Teil,-1,robot,8
+ID5 Bauteilkennung 8 nicht lesbar,-1,quality,8
+LA7 Auslagern 11 blockiert,-1,buffer,8
+NH1 Not-Halt Kreis 1 betaetigt,-1,safety,8
+NP8 Nullpunktspanner 19 nicht gespannt,-1,clamp,8
+OR4 Werker 11 Eingriff angefordert,-1,organization,8
+OR4 Werker 6 Eingriff angefordert,-1,organization,8
+SA5 Achse 18 nicht referenziert,-1,drive,8
+SA7 Achse 19 Schleppabstand zu gross,-1,drive,8
+VR4 Verriegelung 2 nicht in Position,-1,clamp,8
+ZH6 Zweihandbedienung 11 gestoert,-1,safety,8
+BR5 Haltebremse Achse 10 oeffnet nicht,-1,drive,7
+DR8 Druckluft 4 unter Mindestdruck,-1,pneumatic,7
+FB2 Transportfreigabe 10 fehlt,-1,conveyor,7
+FB8 Transportfreigabe 6 fehlt,-1,conveyor,7
+GR6 Greifer 9 meldet kein Teil,-1,robot,7
+IS1 Initiator 1 kein Signal,-1,sensor,7
+KW4 Kuehlwasser 15 Durchfluss gering,-1,media,7
+LS4 Lichtschranke 14 verschmutzt,-1,sensor,7
+LV4 Lichtvorhang 1 unterbrochen,-1,safety,7
+MA3 Material 1 fehlt am Platz,-1,organization,7
+MA3 Material 13 fehlt am Platz,-1,organization,7
+MO5 Motor 14 Uebertemperatur,-1,drive,7
+NH7 Not-Halt Kreis 3 betaetigt,-1,safety,7
+NW2 Teilnehmer 18 Kommunikation gestoert,-1,misc,7
+NW9 Teilnehmer 1 Kommunikation gestoert,-1,misc,7
+OR2 Schichtwechsel Bereich 8,-1,organization,7
+OR2 Wartung Station 10 geplant,-1,organization,7
+OR2 Wartung Station 5 geplant,-1,organization,7
+OR5 Werker 6 Eingriff angefordert,-1,organization,7
+RB1 Roboter 6 Bahnabweichung,-1,robot,7
+RB3 Roboter 1 Bahnabweichung,-1,robot,7
+SA2 Achse 3 nicht referenziert,-1,drive,7
+SE8 Sensor 11 Abgleich erforderlich,-1,sensor,7
+SM5 Schmierung 20 Intervall abgelaufen,-1,media,7
+TV8 Zugangstor 9 nicht verriegelt,-1,safety,7
+VR2 Verriegelung 18 nicht in Position,-1,clamp,7
+WW5 Werkzeugwechsler 8 ohne Quittung,-1,robot,7
+FU6 Umrichter 1 Ueberstrom,-1,drive,6
+HY8 Hydraulik 6 Druck zu niedrig,-1,media,6
+KA8 Kamera 15 Auswertung nicht moeglich,-1,sensor,6
+LA9 Einlagern 15 nicht freigegeben,-1,buffer,6
+LS7 Lichtschranke 15 verschmutzt,-1,sensor,6
+MA3 Material 2 fehlt am Platz,-1,organization,6
+MA7 Material 7 fehlt am Platz,-1,organization,6
+MF5 Messfuehler 1 Wert ausserhalb Bereich,-1,sensor,6
+MF6 Messfuehler 12 Wert ausserhalb Bereich,-1,sensor,6
+MO4 Motor 17 Uebertemperatur,-1,drive,6
+OR1 Schichtwechsel Bereich 17,-1,organization,6
+OR3 Schichtwechsel Bereich 5,-1,organization,6
+OR4 Typwechsel 6 laeuft,-1,organization,6
+OR5 Werker 4 Eingriff angefordert,-1,organization,6
+OR5 Werker 7 Eingriff angefordert,-1,organization,6
+OR6 Wartung Station 4 geplant,-1,organization,6
+RB9 Roboter 9 Kollisionserkennung aktiv,-1,robot,6
+SA1 Achse 11 nicht referenziert,-1,drive,6
+SA6 Achse 13 nicht referenziert,-1,drive,6
+SA9 Achse 19 Schleppabstand zu gross,-1,drive,6
+SM1 Schmierung 4 Intervall abgelaufen,-1,media,6
+SM5 Schmierung 15 Intervall abgelaufen,-1,media,6
+SPN4 Spanner 15 Endlage auf fehlt,-1,clamp,6
+SY1 Diagnosespeicher 7 voll,-1,misc,6
+SY8 Diagnosespeicher 16 voll,-1,misc,6
+TV3 Zugangstor 16 nicht verriegelt,-1,safety,6
+TV6 Zugangstor 20 nicht verriegelt,-1,safety,6
+VR3 Verriegelung 14 nicht in Position,-1,clamp,6
+AB5 Absaugung 15 Unterdruck fehlt,-1,media,5
+BR8 Haltebremse Achse 19 oeffnet nicht,-1,drive,5
+FU8 Umrichter 13 Ueberstrom,-1,drive,5
+ID3 Bauteilkennung 15 nicht lesbar,-1,quality,5
+KW1 Kuehlwasser 18 Durchfluss gering,-1,media,5
+MA5 Material 2 fehlt am Platz,-1,organization,5
+MA9 Material 6 fehlt am Platz,-1,organization,5
+MF1 Messfuehler 4 Wert ausserhalb Bereich,-1,sensor,5
+NP1 Nullpunktspanner 15 nicht gespannt,-1,clamp,5
+NP7 Nullpunktspanner 7 nicht gespannt,-1,clamp,5
+NW4 Teilnehmer 4 Kommunikation gestoert,-1,misc,5
+NW6 Teilnehmer 16 Kommunikation gestoert,-1,misc,5
+NW8 Teilnehmer 19 Kommunikation gestoert,-1,misc,5
+OR1 Schichtwechsel Bereich 20,-1,organization,5
+OR3 Schichtwechsel Bereich 10,-1,organization,5
+OR4 Wartung Station 13 geplant,-1,organization,5
+OR6 Schichtwechsel Bereich 17,-1,organization,5
+OR8 Typwechsel 18 laeuft,-1,organization,5
+PU2 Puffer 18 voll,-1,buffer,5
+QS1 Pruefung 5 nicht in Ordnung,-1,quality,5
+QS6 Pruefung 20 nicht in Ordnung,-1,quality,5
+SA3 Achse 18 Schleppabstand zu gross,-1,drive,5
+SA3 Achse 2 nicht referenziert,-1,drive,5
+SA5 Achse 3 nicht referenziert,-1,drive,5
+SE7 Sensor 9 Abgleich erforderlich,-1,sensor,5
+SY2 Meldung 18 ohne Text,-1,misc,5
+SY5 Meldung 14 ohne Text,-1,misc,5
+SY6 Meldung 12 ohne Text,-1,misc,5
+SY6 Meldung 20 ohne Text,-1,misc,5
+SY7 Meldung 11 ohne Text,-1,misc,5
+VE7 Ventil 2 ohne Rueckmeldung,-1,pneumatic,5
+VR8 Verriegelung 15 nicht in Position,-1,clamp,5
+WE4 Wartungseinheit 14 Filter zugesetzt,-1,pneumatic,5
+WW2 Werkzeugwechsler 1 ohne Quittung,-1,robot,5
+BR8 Haltebremse Achse 9 oeffnet nicht,-1,drive,4
+FB1 Foerderband 6 Stau erkannt,-1,conveyor,4
+IS4 Initiator 10 kein Signal,-1,sensor,4
+KW3 Kuehlwasser 8 Durchfluss gering,-1,media,4
+LS1 Lichtschranke 15 verschmutzt,-1,sensor,4
+LS4 Lichtschranke 6 verschmutzt,-1,sensor,4
+MA9 Material 9 fehlt am Platz,-1,organization,4
+MF4 Messfuehler 4 Wert ausserhalb Bereich,-1,sensor,4
+NA4 Nacharbeit 19 angefordert,-1,quality,4
+NP3 Nullpunktspanner 1 nicht gespannt,-1,clamp,4
+NW2 Teilnehmer 3 Kommunikation gestoert,-1,misc,4
+NW5 Teilnehmer 2 Kommunikation gestoert,-1,misc,4
+OR2 Typwechsel 17 laeuft,-1,organization,4
+OR2 Typwechsel 19 laeuft,-1,organization,4
+OR3 Schichtwechsel Bereich 11,-1,organization,4
+OR3 Wartung Station 4 geplant,-1,organization,4
+RB3 Roboter 4 nicht in Grundstellung,-1,robot,4
+RB9 Roboter 16 Kollisionserkennung aktiv,-1,robot,4
+SA7 Achse 20 Schleppabstand zu gross,-1,drive,4
+SM7 Schmierung 8 Intervall abgelaufen,-1,media,4
+SPN2 Spanner 10 Endlage zu fehlt,-1,clamp,4
+SR8 Sicherheitsrelais 20 hat abgeschaltet,-1,safety,4
+SY2 Uhrzeit 13 nicht synchron,-1,misc,4
+SY8 Uhrzeit 8 nicht synchron,-1,misc,4
+TV1 Zugangstor 16 nicht verriegelt,-1,safety,4
+TV2 Zugangstor 13 nicht verriegelt,-1,safety,4
+VR6 Verriegelung 1 nicht in Position,-1,clamp,4
+WE6 Wartungseinheit 18 Filter zugesetzt,-1,pneumatic,4
+WT4 Werkstuecktraeger 15 nicht gelesen,-1,conveyor,4
+WW4 Werkzeugwechsler 1 ohne Quittung,-1,robot,4
+ZH2 Zweihandbedienung 7 gestoert,-1,safety,4
+ZH3 Zweihandbedienung 12 gestoert,-1,safety,4
+ZH5 Zweihandbedienung 14 gestoert,-1,safety,4
+FU9 Umrichter 2 Ueberstrom,-1,drive,3
+HY1 Hydraulik 2 Druck zu niedrig,-1,media,3
+KA6 Kamera 9 Auswertung nicht moeglich,-1,sensor,3
+KW1 Kuehlwasser 11 Durchfluss gering,-1,media,3
+KW3 Kuehlwasser 3 Durchfluss gering,-1,media,3
+KW9 Kuehlwasser 19 Durchfluss gering,-1,media,3
+LS1 Lichtschranke 1 verschmutzt,-1,sensor,3
+LV4 Lichtvorhang 17 unterbrochen,-1,safety,3
+LV9 Lichtvorhang 1 unterbrochen,-1,safety,3
+MA5 Material 19 fehlt am Platz,-1,organization,3
+MA9 Material 2 fehlt am Platz,-1,organization,3
+MO1 Motor 16 Uebertemperatur,-1,drive,3
+MO5 Motor 12 Uebertemperatur,-1,drive,3
+NA9 Nacharbeit 11 angefordert,-1,quality,3
+NH9 Not-Halt Kreis 19 betaetigt,-1,safety,3
+NP8 Nullpunktspanner 2 nicht gespannt,-1,clamp,3
+OR2 Wartung Station 14 geplant,-1,organization,3
+OR3 Typwechsel 3 laeuft,-1,organization,3
+OR4 Typwechsel 13 laeuft,-1,organization,3
+OR4 Wartung Station 18 geplant,-1,organization,3
+OR4 Wartung Station 7 geplant,-1,organization,3
+OR6 Wartung Station 16 geplant,-1,organization,3
+OR6 Werker 9 Eingriff angefordert,-1,organization,3
+RB1 Roboter 19 nicht in Grundstellung,-1,robot,3
+RB2 Roboter 13 nicht in Grundstellung,-1,robot,3
+RB4 Roboter 1 nicht in Grundstellung,-1,robot,3
+SA1 Achse 15 Schleppabstand zu gross,-1,drive,3
+SA2 Achse 19 nicht referenziert,-1,drive,3
+SA3 Achse 8 nicht referenziert,-1,drive,3
+SA7 Achse 15 Schleppabstand zu gross,-1,drive,3
+SA7 Achse 6 nicht referenziert,-1,drive,3
+SE7 Sensor 10 Abgleich erforderlich,-1,sensor,3
+SM4 Schmierung 18 Intervall abgelaufen,-1,media,3
+SPN1 Spanner 20 Endlage auf fehlt,-1,clamp,3
+SY1 Diagnosespeicher 16 voll,-1,misc,3
+SY1 Meldung 6 ohne Text,-1,misc,3
+SY5 Meldung 13 ohne Text,-1,misc,3
+SY6 Diagnosespeicher 4 voll,-1,misc,3
+SY8 Diagnosespeicher 4 voll,-1,misc,3
+SY8 Meldung 17 ohne Text,-1,misc,3
+SY9 Diagnosespeicher 9 voll,-1,misc,3
+VE5 Ventil 8 ohne Rueckmeldung,-1,pneumatic,3
+WW8 Werkzeugwechsler 8 ohne Quittung,-1,robot,3
+ZH6 Zweihandbedienung 5 gestoert,-1,safety,3
+ZY1 Zylinder 6 Endlage vorn nicht erreicht,-1,pneumatic,3
+AB2 Absaugung 10 Unterdruck fehlt,-1,media,2
+DR8 Druckluft 3 unter Mindestdruck,-1,pneumatic,2
+FU3 Umrichter 4 Ueberstrom,-1,drive,2
+ID4 Bauteilkennung 1 nicht lesbar,-1,quality,2
+KA6 Kamera 1 Auswertung nicht moeglich,-1,sensor,2
+KA9 Kamera 20 Auswertung nicht moeglich,-1,sensor,2
+KW7 Kuehlwasser 17 Durchfluss gering,-1,media,2
+LS6 Lichtschranke 13 verschmutzt,-1,sensor,2
+MA2 Material 13 fehlt am Platz,-1,organization,2
+MA2 Material 6 fehlt am Platz,-1,organization,2
+MA3 Material 9 fehlt am Platz,-1,organization,2
+MA5 Material 9 fehlt am Platz,-1,organization,2
+NH1 Not-Halt Kreis 2 betaetigt,-1,safety,2
+NP8 Nullpunktspanner 11 nicht gespannt,-1,clamp,2
+NW2 Teilnehmer 16 Kommunikation gestoert,-1,misc,2
+NW8 Teilnehmer 5 Kommunikation gestoert,-1,misc,2
+OR4 Schichtwechsel Bereich 14,-1,organization,2
+OR4 Wartung Station 15 geplant,-1,organization,2
+OR5 Wartung Station 1 geplant,-1,organization,2
+OR5 Wartung Station 16 geplant,-1,organization,2
+OR7 Wartung Station 2 geplant,-1,organization,2
+OR7 Werker 18 Eingriff angefordert,-1,organization,2
+OR8 Schichtwechsel Bereich 18,-1,organization,2
+OR8 Wartung Station 2 geplant,-1,organization,2
+OR8 Werker 9 Eingriff angefordert,-1,organization,2
+OR9 Typwechsel 3 laeuft,-1,organization,2
+OR9 Wartung Station 19 geplant,-1,organization,2
+PU9 Puffer 6 voll,-1,buffer,2
+QS1 Pruefung 9 nicht in Ordnung,-1,quality,2
+QS5 Pruefung 9 nicht in Ordnung,-1,quality,2
+RB9 Roboter 1 nicht in Grundstellung,-1,robot,2
+SA6 Achse 15 Schleppabstand zu gross,-1,drive,2
+SA6 Achse 6 Schleppabstand zu gross,-1,drive,2
+SA9 Achse 9 Schleppabstand zu gross,-1,drive,2
+SE2 Sensor 6 Abgleich erforderlich,-1,sensor,2
+SM2 Schmierung 7 Intervall abgelaufen,-1,media,2
+SR1 Sicherheitsrelais 14 hat abgeschaltet,-1,safety,2
+SR4 Sicherheitsrelais 14 hat abgeschaltet,-1,safety,2
+SR5 Sicherheitsrelais 15 hat abgeschaltet,-1,safety,2
+SY3 Diagnosespeicher 20 voll,-1,misc,2
+SY5 Diagnosespeicher 1 voll,-1,misc,2
+SY5 Meldung 1 ohne Text,-1,misc,2
+SY5 Meldung 12 ohne Text,-1,misc,2
+SY7 Diagnosespeicher 3 voll,-1,misc,2
+SY8 Diagnosespeicher 19 voll,-1,misc,2
+SY9 Meldung 4 ohne Text,-1,misc,2
+TV6 Zugangstor 9 nicht verriegelt,-1,safety,2
+TV7 Zugangstor 3 nicht verriegelt,-1,safety,2
+ZH2 Zweihandbedienung 14 gestoert,-1,safety,2
+ZH7 Zweihandbedienung 4 gestoert,-1,safety,2
+ZY4 Zylinder 3 Endlage hinten nicht erreicht,-1,pneumatic,2
+AB4 Absaugung 11 Unterdruck fehlt,-1,media,1
+AB9 Absaugung 10 Unterdruck fehlt,-1,media,1
+AL1 Bauteil 4 liegt nicht auf,-1,clamp,1
+AL2 Bauteil 4 liegt nicht auf,-1,clamp,1
+BR1 Haltebremse Achse 10 oeffnet nicht,-1,drive,1
+DR1 Druckluft 7 unter Mindestdruck,-1,pneumatic,1
+FB3 Foerderband 2 Stau erkannt,-1,conveyor,1
+FB7 Foerderband 16 Stau erkannt,-1,conveyor,1
+FB7 Foerderband 8 Stau erkannt,-1,conveyor,1
+FU5 Umrichter 10 Ueberstrom,-1,drive,1
+GR3 Greifer 6 meldet kein Teil,-1,robot,1
+GR8 Greifer 14 meldet kein Teil,-1,robot,1
+HY6 Hydraulik 6 Druck zu niedrig,-1,media,1
+HY8 Hydraulik 5 Druck zu niedrig,-1,media,1
+ID5 Bauteilkennung 14 nicht lesbar,-1,quality,1
+IS5 Initiator 10 kein Signal,-1,sensor,1
+IS7 Initiator 5 kein Signal,-1,sensor,1
+IS8 Initiator 2 kein Signal,-1,sensor,1
+LA3 Einlagern 3 nicht freigegeben,-1,buffer,1
+LV4 Lichtvorhang 16 unterbrochen,-1,safety,1
+LV4 Lichtvorhang 9 unterbrochen,-1,safety,1
+MA4 Material 12 fehlt am Platz,-1,organization,1
+MA9 Material 12 fehlt am Platz,-1,organization,1
+MF3 Messfuehler 6 Wert ausserhalb Bereich,-1,sensor,1
+MF9 Messfuehler 8 Wert ausserhalb Bereich,-1,sensor,1
+MO3 Motor 7 Uebertemperatur,-1,drive,1
+NA1 Nacharbeit 18 angefordert,-1,quality,1
+NW1 Teilnehmer 17 Kommunikation gestoert,-1,misc,1
+NW1 Teilnehmer 20 Kommunikation gestoert,-1,misc,1
+NW2 Teilnehmer 15 Kommunikation gestoert,-1,misc,1
+NW2 Teilnehmer 19 Kommunikation gestoert,-1,misc,1
+NW2 Teilnehmer 4 Kommunikation gestoert,-1,misc,1
+NW4 Teilnehmer 2 Kommunikation gestoert,-1,misc,1
+NW4 Teilnehmer 7 Kommunikation gestoert,-1,misc,1
+NW6 Teilnehmer 9 Kommunikation gestoert,-1,misc,1
+NW7 Teilnehmer 16 Kommunikation gestoert,-1,misc,1
+NW9 Teilnehmer 4 Kommunikation gestoert,-1,misc,1
+NW9 Teilnehmer 5 Kommunikation gestoert,-1,misc,1
+NW9 Teilnehmer 7 Kommunikation gestoert,-1,misc,1
+OR1 Typwechsel 1 laeuft,-1,organization,1
+OR1 Wartung Station 3 geplant,-1,organization,1
+OR2 Werker 16 Eingriff angefordert,-1,organization,1
+OR3 Schichtwechsel Bereich 16,-1,organization,1
+OR3 Schichtwechsel Bereich 3,-1,organization,1
+OR3 Wartung Station 9 geplant,-1,organization,1
+OR4 Wartung Station 3 geplant,-1,organization,1
+OR4 Wartung Station 9 geplant,-1,organization,1
+OR5 Typwechsel 7 laeuft,-1,organization,1
+OR6 Typwechsel 18 laeuft,-1,organization,1
+OR8 Schichtwechsel Bereich 20,-1,organization,1
+OR9 Werker 17 Eingriff angefordert,-1,organization,1
+OR9 Werker 8 Eingriff angefordert,-1,organization,1
+PU6 Puffer 15 leer,-1,buffer,1
+SA1 Achse 14 Schleppabstand zu gross,-1,drive,1
+SA7 Achse 8 Schleppabstand zu gross,-1,drive,1
+SA8 Achse 19 Schleppabstand zu gross,-1,drive,1
+SE7 Sensor 20 Abgleich erforderlich,-1,sensor,1
+SPN1 Spanner 11 Endlage auf fehlt,-1,clamp,1
+SR7 Sicherheitsrelais 5 hat abgeschaltet,-1,safety,1
+SR9 Sicherheitsrelais 20 hat abgeschaltet,-1,safety,1
+SY1 Diagnosespeicher 4 voll,-1,misc,1
+SY1 Meldung 14 ohne Text,-1,misc,1
+SY2 Diagnosespeicher 11 voll,-1,misc,1
+SY2 Diagnosespeicher 13 voll,-1,misc,1
+SY2 Diagnosespeicher 5 voll,-1,misc,1
+SY2 Meldung 13 ohne Text,-1,misc,1
+SY2 Uhrzeit 19 nicht synchron,-1,misc,1
+SY2 Uhrzeit 2 nicht synchron,-1,misc,1
+SY3 Meldung 18 ohne Text,-1,misc,1
+SY4 Diagnosespeicher 5 voll,-1,misc,1
+SY5 Diagnosespeicher 20 voll,-1,misc,1
+SY6 Meldung 3 ohne Text,-1,misc,1
+SY6 Meldung 8 ohne Text,-1,misc,1
+SY7 Meldung 4 ohne Text,-1,misc,1
+SY8 Uhrzeit 19 nicht synchron,-1,misc,1
+SY9 Meldung 1 ohne Text,-1,misc,1
+TV7 Zugangstor 13 nicht verriegelt,-1,safety,1
+VR3 Verriegelung 6 nicht in Position,-1,clamp,1
+WW6 Werkzeugwechsler 9 ohne Quittung,-1,robot,1
+ZH3 Zweihandbedienung 13 gestoert,-1,safety,1
+ZH7 Zweihandbedienung 7 gestoert,-1,safety,1
+TV9 Zugangstor 20 nicht verriegelt,0,safety,35
+TV9 Zugangstor 19 nicht verriegelt,0,safety,7
+TV5 Zugangstor 12 nicht verriegelt,1,safety,15
+TV5 Zugangstor 15 nicht verriegelt,1,safety,1
+RB3 Roboter 3 Kollisionserkennung aktiv,2,robot,32
+TV2 Zugangstor 1 nicht verriegelt,3,safety,18
+TV2 Zugangstor 8 nicht verriegelt,3,safety,4
+RB6 Roboter 3 Bahnabweichung,4,robot,48
+RB8 Roboter 2 Bahnabweichung,4,robot,4
+RB2 Roboter 17 Kollisionserkennung aktiv,5,robot,25
+RB5 Roboter 15 Bahnabweichung,6,robot,141
+RB4 Roboter 4 Kollisionserkennung aktiv,7,robot,107
+PU4 Puffer 4 voll,8,buffer,28
+PU4 Puffer 5 voll,8,buffer,7
+TV8 Zugangstor 19 nicht verriegelt,9,safety,31
+TV8 Zugangstor 17 nicht verriegelt,10,safety,43
+TV1 Zugangstor 14 nicht verriegelt,11,safety,397
+RB3 Roboter 9 Kollisionserkennung aktiv,12,robot,14
+PU6 Puffer 19 voll,13,buffer,14
+RB9 Roboter 18 Kollisionserkennung aktiv,14,robot,44
+RB7 Roboter 17 Kollisionserkennung aktiv,14,robot,13
+RB2 Roboter 15 Kollisionserkennung aktiv,15,robot,39
+RB1 Roboter 16 Kollisionserkennung aktiv,15,robot,37
+RB4 Roboter 14 Kollisionserkennung aktiv,15,robot,3
+MO2 Motor 3 Uebertemperatur,16,drive,69
+TV6 Zugangstor 2 nicht verriegelt,17,safety,17
+TV6 Zugangstor 4 nicht verriegelt,18,safety,31
+TV3 Zugangstor 17 nicht verriegelt,19,safety,62
+TV1 Zugangstor 19 nicht verriegelt,20,safety,21
+TV3 Zugangstor 8 nicht verriegelt,20,safety,6
+RB4 Roboter 15 Bahnabweichung,21,robot,27
+RB3 Roboter 5 Kollisionserkennung aktiv,22,robot,103
+PU4 Puffer 13 voll,23,buffer,19
+MO2 Motor 4 Uebertemperatur,24,drive,201
+RB4 Roboter 10 Bahnabweichung,25,robot,34
+RB8 Roboter 4 Kollisionserkennung aktiv,26,robot,34
+RB6 Roboter 16 Kollisionserkennung aktiv,27,robot,84
+RB8 Roboter 5 Kollisionserkennung aktiv,28,robot,70
+RB5 Roboter 7 Kollisionserkennung aktiv,29,robot,7
+RB6 Roboter 7 Kollisionserkennung aktiv,29,robot,5
+RB9 Roboter 20 Kollisionserkennung aktiv,29,robot,2
+OR1 Schichtwechsel Bereich 5,30,organization,5
+OR2 Schichtwechsel Bereich 4,31,organization,21
+RB4 Roboter 7 Kollisionserkennung aktiv,32,robot,17
+RB6 Roboter 1 Kollisionserkennung aktiv,33,robot,18
+RB9 Roboter 12 Kollisionserkennung aktiv,34,robot,10
+PU5 Puffer 14 voll,35,buffer,314
+PU7 Puffer 18 voll,36,buffer,29
+MO4 Motor 4 Uebertemperatur,37,drive,8
+MF7 Messfuehler 4 Wert ausserhalb Bereich,38,sensor,19
+RB4 Roboter 4 Bahnabweichung,39,robot,43
+RB8 Roboter 11 Bahnabweichung,40,robot,72
+SY1 Diagnosespeicher 20 voll,41,misc,10
+SY2 Diagnosespeicher 20 voll,41,misc,6
+PU3 Puffer 11 voll,42,buffer,170
+OR9 Typwechsel 2 laeuft,43,organization,135
+OR7 Typwechsel 1 laeuft,43,organization,7
+MO7 Motor 4 Uebertemperatur,44,drive,64
+MO6 Motor 4 Uebertemperatur,45,drive,25
+MO1 Motor 3 Uebertemperatur,46,drive,56
+RB2 Roboter 19 Bahnabweichung,47,robot,19
+RB2 Roboter 11 Bahnabweichung,47,robot,5
+RB8 Roboter 18 Bahnabweichung,47,robot,2
+SY5 Diagnosespeicher 5 voll,48,misc,52
+PU3 Puffer 19 voll,49,buffer,43
+MO1 Motor 1 Uebertemperatur,50,drive,1882
+MF4 Messfuehler 19 Wert ausserhalb Bereich,51,sensor,34
+TV7 Zugangstor 11 nicht verriegelt,52,safety,211
+TV7 Zugangstor 20 nicht verriegelt,53,safety,8
+TV8 Zugangstor 15 nicht verriegelt,53,safety,8
+RB5 Roboter 19 Bahnabweichung,54,robot,16
+RB5 Roboter 4 Bahnabweichung,55,robot,13
+RB1 Roboter 13 Bahnabweichung,56,robot,168
+RB1 Roboter 16 Bahnabweichung,57,robot,10
+RB2 Roboter 17 Bahnabweichung,57,robot,10
+PU2 Puffer 9 voll,58,buffer,47
+PU1 Puffer 18 voll,59,buffer,167
+MO7 Motor 1 Uebertemperatur,60,drive,310
+MO9 Motor 2 Uebertemperatur,61,drive,12
+MO7 Motor 2 Uebertemperatur,61,drive,7
+MF7 Messfuehler 15 Wert ausserhalb Bereich,62,sensor,91
+MF7 Messfuehler 18 Wert ausserhalb Bereich,62,sensor,4
+MF7 Messfuehler 17 Wert ausserhalb Bereich,62,sensor,1
+IS2 Initiator 3 kein Signal,63,sensor,111
+TV6 Zugangstor 18 nicht verriegelt,64,safety,983
+TV6 Zugangstor 12 nicht verriegelt,65,safety,15
+RB6 Roboter 4 Bahnabweichung,66,robot,26
+RB7 Roboter 9 Kollisionserkennung aktiv,67,robot,50
+PU3 Puffer 10 voll,68,buffer,6
+PU6 Puffer 15 voll,68,buffer,4
+PU1 Puffer 10 voll,69,buffer,17
+SY4 Meldung 12 ohne Text,70,misc,64
+SY3 Meldung 15 ohne Text,70,misc,26
+SY2 Meldung 9 ohne Text,70,misc,10
+SY4 Meldung 3 ohne Text,70,misc,7
+SY2 Meldung 12 ohne Text,70,misc,2
+SY2 Meldung 16 ohne Text,70,misc,1
+SY3 Meldung 11 ohne Text,70,misc,1
+MA4 Material 6 fehlt am Platz,71,organization,70
+MA6 Material 7 fehlt am Platz,71,organization,9
+WW9 Werkzeugwechsler 3 ohne Quittung,72,robot,47
+WW8 Werkzeugwechsler 5 ohne Quittung,73,robot,14
+WW9 Werkzeugwechsler 6 ohne Quittung,73,robot,9
+RB8 Roboter 13 Kollisionserkennung aktiv,74,robot,11
+PU5 Puffer 7 voll,75,buffer,26
+PU4 Puffer 7 voll,76,buffer,16
+PU3 Puffer 9 voll,76,buffer,3
+MO3 Motor 5 Uebertemperatur,77,drive,53
+OR4 Schichtwechsel Bereich 7,78,organization,18
+OR1 Schichtwechsel Bereich 8,79,organization,7
+OR2 Schichtwechsel Bereich 9,79,organization,4
+OR8 Schichtwechsel Bereich 6,79,organization,2
+MF2 Messfuehler 14 Wert ausserhalb Bereich,80,sensor,25
+MF2 Messfuehler 18 Wert ausserhalb Bereich,81,sensor,14
+MF2 Messfuehler 5 Wert ausserhalb Bereich,81,sensor,14
+NW1 Teilnehmer 1 Kommunikation gestoert,82,misc,10
+NW1 Teilnehmer 2 Kommunikation gestoert,82,misc,7
+TV4 Zugangstor 20 nicht verriegelt,83,safety,8
+TV4 Zugangstor 16 nicht verriegelt,83,safety,2
+TV4 Zugangstor 5 nicht verriegelt,84,safety,7
+TV4 Zugangstor 3 nicht verriegelt,84,safety,2
+SY7 Diagnosespeicher 6 voll,85,misc,137
+PU1 Puffer 8 voll,86,buffer,42
+PU2 Puffer 8 voll,87,buffer,13
+PU8 Puffer 15 voll,88,buffer,147
+PU1 Puffer 15 voll,89,buffer,124
+MO7 Motor 7 Uebertemperatur,90,drive,57
+MO9 Motor 6 Uebertemperatur,91,drive,130
+MO8 Motor 8 Uebertemperatur,92,drive,20
+MO5 Motor 5 Uebertemperatur,92,drive,6
+MO9 Motor 4 Uebertemperatur,92,drive,1
+OR7 Schichtwechsel Bereich 2,93,organization,337
+NH6 Not-Halt Kreis 10 betaetigt,94,safety,17
+NH6 Not-Halt Kreis 8 betaetigt,94,safety,1
+RB5 Roboter 9 Bahnabweichung,95,robot,26
+RB7 Roboter 20 Bahnabweichung,96,robot,22
+RB9 Roboter 20 Bahnabweichung,96,robot,10
+MO7 Motor 6 Uebertemperatur,97,drive,46
+MO7 Motor 18 Uebertemperatur,98,drive,15
+MF5 Messfuehler 3 Wert ausserhalb Bereich,99,sensor,727
+MF5 Messfuehler 6 Wert ausserhalb Bereich,99,sensor,4
+MF8 Messfuehler 10 Wert ausserhalb Bereich,100,sensor,12
+MF8 Messfuehler 11 Wert ausserhalb Bereich,101,sensor,96
+MF8 Messfuehler 19 Wert ausserhalb Bereich,101,sensor,3
+WW6 Werkzeugwechsler 7 ohne Quittung,102,robot,57
+WW2 Werkzeugwechsler 6 ohne Quittung,102,robot,4
+NH6 Not-Halt Kreis 12 betaetigt,103,safety,18
+LS6 Lichtschranke 1 verschmutzt,104,sensor,66
+RB6 Roboter 11 Kollisionserkennung aktiv,105,robot,119
+RB8 Roboter 11 Kollisionserkennung aktiv,106,robot,113
+OR8 Typwechsel 20 laeuft,107,organization,109
+OR8 Typwechsel 12 laeuft,107,organization,15
+OR8 Typwechsel 8 laeuft,107,organization,11
+OR8 Typwechsel 14 laeuft,107,organization,7
+OR7 Typwechsel 18 laeuft,107,organization,2
+MO4 Motor 6 Uebertemperatur,108,drive,24
+MO6 Motor 5 Uebertemperatur,109,drive,39
+MO5 Motor 16 Uebertemperatur,110,drive,53
+MO3 Motor 18 Uebertemperatur,111,drive,8
+MO2 Motor 18 Uebertemperatur,111,drive,5
+MO8 Motor 9 Uebertemperatur,112,drive,40
+MO9 Motor 9 Uebertemperatur,112,drive,3
+SY7 Uhrzeit 18 nicht synchron,113,misc,13
+SY7 Uhrzeit 19 nicht synchron,113,misc,2
+SY6 Uhrzeit 17 nicht synchron,113,misc,1
+MF3 Messfuehler 11 Wert ausserhalb Bereich,114,sensor,14
+MF1 Messfuehler 8 Wert ausserhalb Bereich,115,sensor,38
+MF1 Messfuehler 18 Wert ausserhalb Bereich,115,sensor,1
+MF1 Messfuehler 2 Wert ausserhalb Bereich,116,sensor,22
+MF2 Messfuehler 15 Wert ausserhalb Bereich,116,sensor,4
+LS6 Lichtschranke 9 verschmutzt,117,sensor,1
+FB1 Transportfreigabe 1 fehlt,118,conveyor,28
+OR7 Typwechsel 9 laeuft,119,organization,38
+OR9 Typwechsel 5 laeuft,119,organization,14
+OR7 Typwechsel 12 laeuft,119,organization,7
+OR7 Typwechsel 8 laeuft,119,organization,1
+MO8 Motor 15 Uebertemperatur,120,drive,17
+MO3 Motor 13 Uebertemperatur,121,drive,44
+MF3 Messfuehler 12 Wert ausserhalb Bereich,122,sensor,23
+MA1 Material 1 fehlt am Platz,123,organization,11
+MA2 Material 18 fehlt am Platz,124,organization,16
+AL1 Bauteil 20 liegt nicht auf,125,clamp,18
+FU1 Umrichter 1 Ueberstrom,126,drive,41
+FB7 Transportfreigabe 3 fehlt,127,conveyor,64
+RB5 Roboter 17 Bahnabweichung,128,robot,285
+RB9 Roboter 8 Bahnabweichung,129,robot,85
+OR9 Typwechsel 12 laeuft,130,organization,9
+OR9 Typwechsel 15 laeuft,131,organization,31
+MO6 Motor 13 Uebertemperatur,132,drive,12
+MO2 Motor 15 Uebertemperatur,132,drive,4
+MO1 Motor 14 Uebertemperatur,132,drive,1
+MF5 Messfuehler 19 Wert ausserhalb Bereich,134,sensor,38
+MF6 Messfuehler 18 Wert ausserhalb Bereich,135,sensor,9
+MA2 Material 19 fehlt am Platz,136,organization,11
+WW4 Werkzeugwechsler 14 ohne Quittung,137,robot,30
+LS7 Lichtschranke 12 verschmutzt,138,sensor,83
+AL1 Bauteil 18 liegt nicht auf,139,clamp,72
+AL3 Bauteil 11 liegt nicht auf,140,clamp,113
+AL1 Bauteil 13 liegt nicht auf,140,clamp,9
+AL4 Bauteil 12 liegt nicht auf,141,clamp,52
+AL5 Bauteil 11 liegt nicht auf,142,clamp,3
+FU2 Umrichter 4 Ueberstrom,143,drive,1071
+SR3 Sicherheitsrelais 1 hat abgeschaltet,144,safety,9
+SR2 Sicherheitsrelais 4 hat abgeschaltet,145,safety,11
+SR4 Sicherheitsrelais 1 hat abgeschaltet,145,safety,8
+FB6 Foerderband 10 Stau erkannt,146,conveyor,80
+OR5 Typwechsel 2 laeuft,147,organization,47
+OR2 Typwechsel 5 laeuft,148,organization,18
+MO9 Motor 15 Uebertemperatur,149,drive,21
+MO9 Motor 16 Uebertemperatur,150,drive,20
+OR5 Schichtwechsel Bereich 6,151,organization,106
+OR4 Schichtwechsel Bereich 2,152,organization,20
+OR3 Schichtwechsel Bereich 2,152,organization,3
+MF5 Messfuehler 7 Wert ausserhalb Bereich,153,sensor,45
+MF5 Messfuehler 4 Wert ausserhalb Bereich,154,sensor,119
+MF3 Messfuehler 5 Wert ausserhalb Bereich,155,sensor,12
+MF3 Messfuehler 7 Wert ausserhalb Bereich,156,sensor,41
+MF4 Messfuehler 20 Wert ausserhalb Bereich,156,sensor,11
+MA7 Material 20 fehlt am Platz,157,organization,22
+MA8 Material 19 fehlt am Platz,157,organization,2
+MA1 Material 13 fehlt am Platz,158,organization,35
+MA1 Material 14 fehlt am Platz,158,organization,14
+WW4 Werkzeugwechsler 3 ohne Quittung,159,robot,20
+IS1 Initiator 4 kein Signal,160,sensor,37
+IS1 Initiator 2 kein Signal,161,sensor,20
+IS2 Initiator 1 kein Signal,161,sensor,2
+LS7 Lichtschranke 20 verschmutzt,162,sensor,109
+LS7 Lichtschranke 19 verschmutzt,163,sensor,15
+AL8 Bauteil 7 liegt nicht auf,164,clamp,22
+AL8 Bauteil 17 liegt nicht auf,165,clamp,13
+AL9 Bauteil 11 liegt nicht auf,165,clamp,3
+AL8 Bauteil 16 liegt nicht auf,165,clamp,2
+AL7 Bauteil 4 liegt nicht auf,166,clamp,15
+FB6 Transportfreigabe 11 fehlt,167,conveyor,47
+FB5 Transportfreigabe 16 fehlt,168,conveyor,25
+FB6 Transportfreigabe 20 fehlt,168,conveyor,4
+SY1 Diagnosespeicher 15 voll,169,misc,4
+MO4 Motor 12 Uebertemperatur,170,drive,35
+SY1 Uhrzeit 13 nicht synchron,171,misc,14
+SY7 Uhrzeit 1 nicht synchron,171,misc,7
+SY9 Uhrzeit 18 nicht synchron,171,misc,7
+SY1 Uhrzeit 14 nicht synchron,171,misc,6
+SY1 Uhrzeit 4 nicht synchron,171,misc,6
+SY4 Uhrzeit 11 nicht synchron,171,misc,6
+SY9 Uhrzeit 17 nicht synchron,171,misc,6
+SY1 Uhrzeit 18 nicht synchron,171,misc,5
+SY5 Uhrzeit 4 nicht synchron,171,misc,4
+SY7 Uhrzeit 2 nicht synchron,171,misc,3
+SY1 Uhrzeit 8 nicht synchron,171,misc,2
+SY4 Uhrzeit 3 nicht synchron,171,misc,2
+SY4 Uhrzeit 7 nicht synchron,171,misc,1
+SY5 Uhrzeit 12 nicht synchron,171,misc,1
+SY5 Uhrzeit 16 nicht synchron,171,misc,1
+SY6 Uhrzeit 8 nicht synchron,171,misc,1
+SY7 Uhrzeit 16 nicht synchron,171,misc,1
+SY7 Uhrzeit 5 nicht synchron,171,misc,1
+MA3 Material 7 fehlt am Platz,172,organization,41
+MA2 Material 7 fehlt am Platz,172,organization,1
+NW4 Teilnehmer 15 Kommunikation gestoert,173,misc,5
+NW5 Teilnehmer 15 Kommunikation gestoert,173,misc,4
+WW5 Werkzeugwechsler 4 ohne Quittung,174,robot,42
+WW6 Werkzeugwechsler 4 ohne Quittung,175,robot,39
+AL6 Bauteil 6 liegt nicht auf,176,clamp,99
+AL6 Bauteil 2 liegt nicht auf,176,clamp,2
+AL7 Bauteil 15 liegt nicht auf,177,clamp,44
+SR5 Sicherheitsrelais 6 hat abgeschaltet,178,safety,131
+SE6 Sensor 5 Abgleich erforderlich,180,sensor,24
+MO8 Motor 10 Uebertemperatur,181,drive,15
+MO3 Motor 19 Uebertemperatur,182,drive,36
+MO3 Motor 20 Uebertemperatur,183,drive,37
+MO8 Motor 11 Uebertemperatur,184,drive,29
+MO2 Motor 20 Uebertemperatur,184,drive,8
+MA7 Material 8 fehlt am Platz,185,organization,42
+NH6 Not-Halt Kreis 14 betaetigt,186,safety,20
+NH5 Not-Halt Kreis 9 betaetigt,187,safety,26
+NH5 Not-Halt Kreis 2 betaetigt,187,safety,6
+FU4 Umrichter 17 Ueberstrom,188,drive,62
+FB6 Transportfreigabe 7 fehlt,189,conveyor,25
+FB2 Transportfreigabe 5 fehlt,190,conveyor,3
+FB1 Transportfreigabe 7 fehlt,190,conveyor,2
+FB8 Transportfreigabe 13 fehlt,191,conveyor,92
+FB7 Transportfreigabe 13 fehlt,192,conveyor,81
+SE3 Sensor 5 Abgleich erforderlich,193,sensor,38
+SY5 Diagnosespeicher 14 voll,194,misc,20
+SY5 Diagnosespeicher 17 voll,194,misc,7
+SY3 Diagnosespeicher 15 voll,194,misc,4
+SY6 Diagnosespeicher 16 voll,194,misc,4
+SY5 Diagnosespeicher 11 voll,194,misc,3
+SY5 Diagnosespeicher 15 voll,194,misc,3
+SY5 Diagnosespeicher 18 voll,194,misc,2
+SY3 Diagnosespeicher 17 voll,194,misc,1
+SY9 Diagnosespeicher 16 voll,194,misc,1
+SY4 Diagnosespeicher 17 voll,195,misc,46
+SY4 Diagnosespeicher 15 voll,195,misc,9
+SY9 Diagnosespeicher 15 voll,195,misc,5
+SY1 Diagnosespeicher 13 voll,195,misc,4
+SY1 Diagnosespeicher 19 voll,195,misc,4
+SY1 Diagnosespeicher 11 voll,195,misc,1
+MO7 Motor 17 Uebertemperatur,196,drive,24
+MO5 Motor 17 Uebertemperatur,197,drive,14
+MO1 Motor 19 Uebertemperatur,198,drive,22
+MO5 Motor 19 Uebertemperatur,199,drive,25
+SY8 Uhrzeit 9 nicht synchron,201,misc,111
+SY8 Uhrzeit 15 nicht synchron,201,misc,25
+SY2 Uhrzeit 16 nicht synchron,201,misc,4
+SY2 Uhrzeit 8 nicht synchron,201,misc,1
+NW7 Teilnehmer 17 Kommunikation gestoert,202,misc,50
+NW8 Teilnehmer 17 Kommunikation gestoert,202,misc,2
+NH2 Not-Halt Kreis 3 betaetigt,203,safety,39
+NH3 Not-Halt Kreis 3 betaetigt,204,safety,224
+NH5 Not-Halt Kreis 20 betaetigt,205,safety,25
+LS2 Lichtschranke 15 verschmutzt,206,sensor,56
+FU1 Umrichter 19 Ueberstrom,207,drive,101
+FU1 Umrichter 14 Ueberstrom,208,drive,45
+FU9 Umrichter 13 Ueberstrom,209,drive,10
+FU6 Umrichter 19 Ueberstrom,209,drive,6
+FB7 Transportfreigabe 9 fehlt,210,conveyor,64
+FB3 Transportfreigabe 6 fehlt,211,conveyor,15
+FB4 Transportfreigabe 8 fehlt,211,conveyor,2
+SR7 Sicherheitsrelais 12 hat abgeschaltet,212,safety,92
+SE6 Sensor 13 Abgleich erforderlich,213,sensor,45
+OR1 Typwechsel 5 laeuft,214,organization,788
+OR5 Typwechsel 9 laeuft,215,organization,45
+SY3 Uhrzeit 19 nicht synchron,216,misc,5
+SY3 Uhrzeit 14 nicht synchron,216,misc,2
+SY3 Uhrzeit 12 nicht synchron,216,misc,1
+SY3 Uhrzeit 6 nicht synchron,217,misc,14
+SY3 Uhrzeit 4 nicht synchron,217,misc,3
+SY3 Uhrzeit 1 nicht synchron,217,misc,1
+MA2 Material 2 fehlt am Platz,218,organization,17
+WW2 Werkzeugwechsler 15 ohne Quittung,219,robot,104
+IS4 Initiator 17 kein Signal,220,sensor,19
+FU7 Umrichter 2 Ueberstrom,221,drive,42
+FU9 Umrichter 20 Ueberstrom,222,drive,260
+FU5 Umrichter 20 Ueberstrom,223,drive,18
+FU8 Umrichter 12 Ueberstrom,224,drive,9
+FB8 Transportfreigabe 15 fehlt,225,conveyor,22
+FB2 Transportfreigabe 15 fehlt,226,conveyor,12
+FB2 Transportfreigabe 13 fehlt,226,conveyor,3
+SE7 Sensor 16 Abgleich erforderlich,227,sensor,43
+BR2 Haltebremse Achse 1 oeffnet nicht,228,drive,135
+RB8 Roboter 6 nicht in Grundstellung,229,robot,28
+PU8 Puffer 1 leer,230,buffer,51
+PU1 Puffer 2 leer,230,buffer,1
+OR4 Typwechsel 7 laeuft,231,organization,8
+OR6 Typwechsel 3 laeuft,232,organization,8
+OR1 Typwechsel 4 laeuft,232,organization,4
+OR3 Typwechsel 14 laeuft,233,organization,38
+OR3 Schichtwechsel Bereich 9,234,organization,11
+OR3 Schichtwechsel Bereich 14,234,organization,4
+NH7 Not-Halt Kreis 9 betaetigt,235,safety,12
+FU2 Umrichter 3 Ueberstrom,236,drive,75
+FU4 Umrichter 8 Ueberstrom,237,drive,25
+FU5 Umrichter 8 Ueberstrom,238,drive,167
+KA3 Kamera 3 Auswertung nicht moeglich,239,sensor,7
+BR3 Haltebremse Achse 1 oeffnet nicht,240,drive,13
+BR1 Haltebremse Achse 16 oeffnet nicht,241,drive,135
+BR1 Haltebremse Achse 13 oeffnet nicht,241,drive,4
+BR1 Haltebremse Achse 2 oeffnet nicht,241,drive,4
+BR9 Haltebremse Achse 15 oeffnet nicht,242,drive,13
+MO7 Motor 10 Uebertemperatur,243,drive,89
+OR5 Schichtwechsel Bereich 10,244,organization,12
+NW2 Teilnehmer 12 Kommunikation gestoert,245,misc,4
+WW3 Werkzeugwechsler 16 ohne Quittung,246,robot,16
+WW4 Werkzeugwechsler 19 ohne Quittung,247,robot,15
+IS2 Initiator 12 kein Signal,248,sensor,34
+IS2 Initiator 20 kein Signal,249,sensor,33
+NH3 Not-Halt Kreis 20 betaetigt,250,safety,112
+FU7 Umrichter 3 Ueberstrom,251,drive,49
+FU7 Umrichter 16 Ueberstrom,252,drive,34
+KA4 Kamera 2 Auswertung nicht moeglich,253,sensor,15
+BR2 Haltebremse Achse 13 oeffnet nicht,254,drive,17
+BR2 Haltebremse Achse 12 oeffnet nicht,254,drive,4
+BR2 Haltebremse Achse 16 oeffnet nicht,254,drive,2
+BR2 Haltebremse Achse 9 oeffnet nicht,255,drive,52
+BR3 Haltebremse Achse 8 oeffnet nicht,255,drive,5
+BR3 Haltebremse Achse 19 oeffnet nicht,256,drive,446
+BR4 Haltebremse Achse 4 oeffnet nicht,257,drive,12
+MO1 Motor 12 Uebertemperatur,258,drive,22
+MO2 Motor 12 Uebertemperatur,259,drive,9
+IS4 Initiator 8 kein Signal,260,sensor,149
+FU6 Umrichter 12 Ueberstrom,261,drive,19
+FU5 Umrichter 12 Ueberstrom,262,drive,909
+FU3 Umrichter 12 Ueberstrom,262,drive,10
+FU4 Umrichter 12 Ueberstrom,262,drive,4
+SR8 Sicherheitsrelais 6 hat abgeschaltet,263,safety,10
+SR7 Sicherheitsrelais 19 hat abgeschaltet,263,safety,5
+SE5 Sensor 13 Abgleich erforderlich,264,sensor,40
+SA4 Achse 4 nicht referenziert,265,drive,9
+BR1 Haltebremse Achse 4 oeffnet nicht,267,drive,1
+RB8 Roboter 14 nicht in Grundstellung,268,robot,27
+RB8 Roboter 17 nicht in Grundstellung,269,robot,22
+RB8 Roboter 16 nicht in Grundstellung,269,robot,7
+SA4 Achse 15 Schleppabstand zu gross,270,drive,14
+SA4 Achse 3 Schleppabstand zu gross,270,drive,13
+SA4 Achse 13 Schleppabstand zu gross,270,drive,7
+SPN6 Spanner 4 Endlage zu fehlt,271,clamp,42
+OR2 Schichtwechsel Bereich 11,272,organization,16
+IS2 Initiator 11 kein Signal,273,sensor,31
+NH8 Not-Halt Kreis 10 betaetigt,274,safety,57
+NH9 Not-Halt Kreis 15 betaetigt,275,safety,28
+NH9 Not-Halt Kreis 11 betaetigt,275,safety,4
+NH4 Not-Halt Kreis 2 betaetigt,276,safety,7
+NH7 Not-Halt Kreis 16 betaetigt,276,safety,1
+NH7 Not-Halt Kreis 17 betaetigt,276,safety,1
+LS1 Lichtschranke 10 verschmutzt,277,sensor,41
+FU8 Umrichter 14 Ueberstrom,278,drive,103
+FU8 Umrichter 11 Ueberstrom,279,drive,16
+VR2 Verriegelung 7 nicht in Position,280,clamp,37
+KA8 Kamera 2 Auswertung nicht moeglich,281,sensor,35
+KA9 Kamera 13 Auswertung nicht moeglich,282,sensor,43
+SE4 Sensor 1 Abgleich erforderlich,283,sensor,27
+SE3 Sensor 4 Abgleich erforderlich,284,sensor,991
+SE3 Sensor 1 Abgleich erforderlich,284,sensor,3
+SE5 Sensor 11 Abgleich erforderlich,285,sensor,24
+RB9 Roboter 5 nicht in Grundstellung,286,robot,34
+SPN3 Spanner 4 Endlage auf fehlt,287,clamp,24
+SPN4 Spanner 4 Endlage auf fehlt,287,clamp,8
+OR2 Wartung Station 8 geplant,288,organization,18
+OR2 Wartung Station 18 geplant,289,organization,7
+OR6 Wartung Station 2 geplant,289,organization,7
+OR7 Wartung Station 4 geplant,289,organization,2
+OR1 Wartung Station 19 geplant,290,organization,11
+OR5 Wartung Station 17 geplant,291,organization,9
+OR1 Wartung Station 8 geplant,291,organization,8
+OR5 Wartung Station 20 geplant,291,organization,8
+MA3 Material 18 fehlt am Platz,292,organization,14
+MA3 Material 17 fehlt am Platz,293,organization,138
+MA4 Material 17 fehlt am Platz,293,organization,1
+WW8 Werkzeugwechsler 20 ohne Quittung,294,robot,18
+WW7 Werkzeugwechsler 12 ohne Quittung,295,robot,6
+IS1 Initiator 7 kein Signal,296,sensor,13
+VR9 Verriegelung 5 nicht in Position,297,clamp,104
+KA9 Kamera 3 Auswertung nicht moeglich,298,sensor,36
+KA3 Kamera 8 Auswertung nicht moeglich,298,sensor,5
+KA4 Kamera 8 Auswertung nicht moeglich,298,sensor,1
+KA9 Kamera 2 Auswertung nicht moeglich,299,sensor,874
+SE3 Sensor 15 Abgleich erforderlich,300,sensor,33
+SE3 Sensor 13 Abgleich erforderlich,300,sensor,13
+SA1 Achse 5 nicht referenziert,301,drive,34
+RB7 Roboter 17 nicht in Grundstellung,302,robot,39
+RB2 Roboter 15 nicht in Grundstellung,303,robot,27
+SA2 Achse 12 Schleppabstand zu gross,304,drive,23
+QS9 Pruefung 19 nicht in Ordnung,305,quality,25
+QS9 Pruefung 6 nicht in Ordnung,305,quality,8
+FB7 Foerderband 1 Sensor dauernd belegt,306,conveyor,124
+OR8 Wartung Station 1 geplant,307,organization,31
+OR1 Wartung Station 10 geplant,308,organization,47
+OR1 Wartung Station 4 geplant,308,organization,14
+OR7 Schichtwechsel Bereich 20,309,organization,145
+OR5 Schichtwechsel Bereich 14,309,organization,27
+OR7 Schichtwechsel Bereich 15,309,organization,18
+OR5 Schichtwechsel Bereich 11,309,organization,14
+OR5 Schichtwechsel Bereich 16,309,organization,6
+IS4 Initiator 15 kein Signal,310,sensor,14
+IS5 Initiator 4 kein Signal,311,sensor,163
+IS4 Initiator 6 kein Signal,311,sensor,11
+IS1 Initiator 11 kein Signal,312,sensor,26
+FU7 Umrichter 4 Ueberstrom,313,drive,53
+FU5 Umrichter 5 Ueberstrom,314,drive,41
+FU4 Umrichter 2 Ueberstrom,314,drive,2
+FB9 Transportfreigabe 10 fehlt,315,conveyor,65
+VR9 Verriegelung 10 nicht in Position,316,clamp,15
+RB3 Roboter 5 nicht in Grundstellung,318,robot,42
+RB3 Roboter 2 nicht in Grundstellung,319,robot,88
+RB7 Roboter 6 nicht in Grundstellung,321,robot,84
+SA5 Achse 3 Schleppabstand zu gross,322,drive,10
+SA5 Achse 4 Schleppabstand zu gross,323,drive,22
+SPN4 Spanner 6 Endlage auf fehlt,324,clamp,15
+SPN5 Spanner 15 Endlage zu fehlt,325,clamp,22
+SPN5 Spanner 17 Endlage zu fehlt,326,clamp,17
+QS5 Pruefung 6 nicht in Ordnung,327,quality,28
+QS7 Pruefung 3 nicht in Ordnung,328,quality,22
+FB7 Foerderband 2 Sensor dauernd belegt,329,conveyor,21
+SY8 Meldung 12 ohne Text,330,misc,7
+SY9 Meldung 16 ohne Text,330,misc,5
+SY7 Meldung 12 ohne Text,331,misc,46
+SY6 Meldung 13 ohne Text,331,misc,1
+SY6 Meldung 14 ohne Text,331,misc,1
+SY6 Meldung 16 ohne Text,331,misc,1
+OR5 Typwechsel 10 laeuft,332,organization,15
+OR9 Schichtwechsel Bereich 12,333,organization,86
+OR9 Schichtwechsel Bereich 10,334,organization,5
+IS2 Initiator 18 kein Signal,335,sensor,50
+IS2 Initiator 14 kein Signal,336,sensor,32
+IS1 Initiator 15 kein Signal,336,sensor,8
+NH4 Not-Halt Kreis 14 betaetigt,337,safety,49
+NH4 Not-Halt Kreis 13 betaetigt,338,safety,55
+NH2 Not-Halt Kreis 6 betaetigt,339,safety,41
+NH2 Not-Halt Kreis 7 betaetigt,339,safety,18
+LS4 Lichtschranke 20 verschmutzt,340,sensor,35
+LS4 Lichtschranke 1 verschmutzt,340,sensor,8
+LS9 Lichtschranke 18 verschmutzt,341,sensor,211
+FB1 Transportfreigabe 19 fehlt,342,conveyor,23
+SA3 Achse 12 nicht referenziert,343,drive,28
+SA3 Achse 13 nicht referenziert,343,drive,10
+RB2 Roboter 9 nicht in Grundstellung,344,robot,12
+RB4 Roboter 6 nicht in Grundstellung,345,robot,54
+RB4 Roboter 7 nicht in Grundstellung,345,robot,10
+SA3 Achse 6 Schleppabstand zu gross,346,drive,44
+SA3 Achse 5 Schleppabstand zu gross,347,drive,11
+SA3 Achse 7 Schleppabstand zu gross,347,drive,4
+QS6 Pruefung 5 nicht in Ordnung,348,quality,19
+QS5 Pruefung 20 nicht in Ordnung,349,quality,132
+QS8 Pruefung 2 nicht in Ordnung,350,quality,11
+QS3 Pruefung 7 nicht in Ordnung,351,quality,21
+AB9 Absaugung 1 Unterdruck fehlt,352,media,6
+SM2 Schmierung 3 Intervall abgelaufen,353,media,15
+OR1 Typwechsel 15 laeuft,354,organization,11
+MA6 Material 9 fehlt am Platz,355,organization,47
+IS9 Initiator 13 kein Signal,356,sensor,47
+IS9 Initiator 14 kein Signal,356,sensor,21
+LS8 Lichtschranke 19 verschmutzt,357,sensor,77
+FB3 Transportfreigabe 10 fehlt,358,conveyor,99
+VR8 Verriegelung 5 nicht in Position,359,clamp,11
+VR9 Verriegelung 15 nicht in Position,360,clamp,48
+VR9 Verriegelung 16 nicht in Position,360,clamp,1
+VR9 Verriegelung 2 nicht in Position,361,clamp,12
+VR8 Verriegelung 2 nicht in Position,362,clamp,38
+VR8 Verriegelung 1 nicht in Position,362,clamp,1
+SA4 Achse 18 nicht referenziert,363,drive,78
+RB5 Roboter 7 nicht in Grundstellung,364,robot,54
+RB5 Roboter 3 nicht in Grundstellung,365,robot,36
+RB4 Roboter 3 nicht in Grundstellung,365,robot,9
+RB5 Roboter 2 nicht in Grundstellung,365,robot,2
+QS6 Pruefung 14 nicht in Ordnung,367,quality,73
+QS8 Pruefung 15 nicht in Ordnung,368,quality,547
+QS3 Pruefung 2 nicht in Ordnung,369,quality,49
+FB7 Foerderband 15 Sensor dauernd belegt,370,conveyor,14
+FB6 Foerderband 17 Sensor dauernd belegt,371,conveyor,117
+LK2 Leckage 19 erkannt,372,media,45
+LK1 Leckage 12 erkannt,372,media,1
+LK1 Leckage 7 erkannt,373,media,35
+FB1 Foerderband 14 Stau erkannt,374,conveyor,51
+OR5 Typwechsel 14 laeuft,375,organization,12
+IS7 Initiator 9 kein Signal,376,sensor,2
+IS8 Initiator 9 kein Signal,377,sensor,115
+IS7 Initiator 8 kein Signal,378,sensor,11
+IS9 Initiator 12 kein Signal,379,sensor,16
+IS9 Initiator 20 kein Signal,379,sensor,7
+LS5 Lichtschranke 18 verschmutzt,380,sensor,120
+LS5 Lichtschranke 20 verschmutzt,381,sensor,50
+LS4 Lichtschranke 17 verschmutzt,382,sensor,96
+LS1 Lichtschranke 20 verschmutzt,383,sensor,18
+LS9 Lichtschranke 19 verschmutzt,384,sensor,34
+LS2 Lichtschranke 19 verschmutzt,384,sensor,4
+FB9 Transportfreigabe 12 fehlt,385,conveyor,358
+FB5 Transportfreigabe 13 fehlt,386,conveyor,69
+SR9 Sicherheitsrelais 13 hat abgeschaltet,387,safety,10
+VR1 Verriegelung 11 nicht in Position,388,clamp,12
+VR3 Verriegelung 20 nicht in Position,389,clamp,19
+VR3 Verriegelung 11 nicht in Position,389,clamp,4
+SA2 Achse 3 Schleppabstand zu gross,390,drive,13
+QS9 Pruefung 1 nicht in Ordnung,391,quality,60
+QS8 Pruefung 12 nicht in Ordnung,392,quality,14
+SY4 Diagnosespeicher 6 voll,393,misc,19
+SY9 Diagnosespeicher 10 voll,394,misc,10
+SY5 Diagnosespeicher 10 voll,394,misc,4
+OR1 Typwechsel 11 laeuft,395,organization,35
+OR1 Typwechsel 18 laeuft,395,organization,13
+MA4 Material 8 fehlt am Platz,396,organization,37
+MA3 Material 5 fehlt am Platz,396,organization,6
+MA4 Material 5 fehlt am Platz,396,organization,2
+IS6 Initiator 11 kein Signal,397,sensor,67
+IS9 Initiator 2 kein Signal,397,sensor,6
+IS6 Initiator 12 kein Signal,398,sensor,57
+IS7 Initiator 10 kein Signal,398,sensor,3
+IS5 Initiator 19 kein Signal,399,sensor,29
+IS6 Initiator 18 kein Signal,399,sensor,8
+IS6 Initiator 17 kein Signal,399,sensor,1
+NH3 Not-Halt Kreis 14 betaetigt,400,safety,556
+SA5 Achse 15 nicht referenziert,401,drive,7
+SA5 Achse 16 nicht referenziert,401,drive,1
+RB8 Roboter 1 nicht in Grundstellung,402,robot,22
+RB7 Roboter 2 nicht in Grundstellung,403,robot,36
+SA3 Achse 10 Schleppabstand zu gross,404,drive,18
+SA3 Achse 1 Schleppabstand zu gross,405,drive,116
+QS3 Pruefung 4 nicht in Ordnung,406,quality,51
+QS2 Pruefung 12 nicht in Ordnung,407,quality,88
+FB5 Foerderband 9 Sensor dauernd belegt,408,conveyor,36
+IS7 Initiator 16 kein Signal,409,sensor,28
+NH3 Not-Halt Kreis 10 betaetigt,410,safety,11
+NH3 Not-Halt Kreis 6 betaetigt,411,safety,19
+NH3 Not-Halt Kreis 12 betaetigt,411,safety,7
+NH3 Not-Halt Kreis 11 betaetigt,411,safety,3
+LS5 Lichtschranke 2 verschmutzt,412,sensor,46
+LS6 Lichtschranke 18 verschmutzt,413,sensor,13
+LS6 Lichtschranke 19 verschmutzt,413,sensor,5
+LS3 Lichtschranke 19 verschmutzt,414,sensor,47
+SR6 Sicherheitsrelais 5 hat abgeschaltet,415,safety,36
+SR4 Sicherheitsrelais 10 hat abgeschaltet,416,safety,10
+SR3 Sicherheitsrelais 10 hat abgeschaltet,416,safety,6
+SR6 Sicherheitsrelais 2 hat abgeschaltet,416,safety,6
+SR1 Sicherheitsrelais 7 hat abgeschaltet,416,safety,5
+SA1 Achse 10 nicht referenziert,417,drive,18
+SA1 Achse 15 nicht referenziert,417,drive,5
+SA7 Achse 15 nicht referenziert,418,drive,29
+SA4 Achse 13 nicht referenziert,419,drive,225
+SA4 Achse 14 nicht referenziert,420,drive,143
+SPN4 Spanner 10 Endlage auf fehlt,421,clamp,12
+QS5 Pruefung 12 nicht in Ordnung,422,quality,20
+QS5 Pruefung 13 nicht in Ordnung,422,quality,7
+QS1 Pruefung 15 nicht in Ordnung,423,quality,42
+FB9 Foerderband 5 Sensor dauernd belegt,424,conveyor,65
+FB9 Foerderband 2 Sensor dauernd belegt,424,conveyor,2
+AB3 Absaugung 3 Unterdruck fehlt,425,media,19
+AB3 Absaugung 1 Unterdruck fehlt,426,media,37
+AB9 Absaugung 20 Unterdruck fehlt,426,media,13
+LK2 Leckage 13 erkannt,427,media,55
+OR5 Typwechsel 8 laeuft,428,organization,34
+MA6 Material 14 fehlt am Platz,429,organization,11
+MA4 Material 11 fehlt am Platz,429,organization,2
+NW7 Teilnehmer 14 Kommunikation gestoert,430,misc,80
+IS8 Initiator 18 kein Signal,431,sensor,164
+NH1 Not-Halt Kreis 5 betaetigt,432,safety,20
+NH1 Not-Halt Kreis 12 betaetigt,433,safety,14
+NH1 Not-Halt Kreis 11 betaetigt,433,safety,12
+LS8 Lichtschranke 4 verschmutzt,434,sensor,12
+LS8 Lichtschranke 5 verschmutzt,434,sensor,5
+LS5 Lichtschranke 1 verschmutzt,434,sensor,3
+VR5 Verriegelung 17 nicht in Position,435,clamp,10
+VR3 Verriegelung 5 nicht in Position,436,clamp,43
+VR5 Verriegelung 11 nicht in Position,436,clamp,26
+SA2 Achse 20 nicht referenziert,437,drive,10
+SA2 Achse 10 nicht referenziert,438,drive,19
+SA2 Achse 15 nicht referenziert,438,drive,8
+SA1 Achse 3 nicht referenziert,438,drive,3
+SA2 Achse 6 nicht referenziert,438,drive,1
+BR7 Haltebremse Achse 2 oeffnet nicht,439,drive,11
+BR1 Haltebremse Achse 5 oeffnet nicht,439,drive,2
+RB2 Roboter 1 nicht in Grundstellung,440,robot,87
+RB6 Roboter 12 nicht in Grundstellung,441,robot,31
+RB6 Roboter 16 nicht in Grundstellung,441,robot,13
+SA1 Achse 2 Schleppabstand zu gross,442,drive,37
+SA2 Achse 1 Schleppabstand zu gross,443,drive,51
+SPN8 Spanner 8 Endlage auf fehlt,444,clamp,178
+QS6 Pruefung 19 nicht in Ordnung,445,quality,65
+QS3 Pruefung 16 nicht in Ordnung,446,quality,15
+QS4 Pruefung 10 nicht in Ordnung,447,quality,23
+QS4 Pruefung 4 nicht in Ordnung,448,quality,33
+QS1 Pruefung 1 nicht in Ordnung,449,quality,19
+FB1 Foerderband 16 Sensor dauernd belegt,450,conveyor,353
+SM3 Schmierung 2 Intervall abgelaufen,451,media,24
+SM9 Schmierung 20 Intervall abgelaufen,451,media,7
+LK2 Leckage 3 erkannt,452,media,14
+LK5 Leckage 1 erkannt,452,media,3
+LK2 Leckage 4 erkannt,452,media,2
+PU4 Puffer 3 leer,453,buffer,143
+LK8 Leckage 16 erkannt,454,media,20
+OR6 Typwechsel 14 laeuft,455,organization,13
+OR6 Typwechsel 16 laeuft,456,organization,66
+IS8 Initiator 19 kein Signal,457,sensor,12
+IS8 Initiator 13 kein Signal,458,sensor,93
+LS5 Lichtschranke 13 verschmutzt,459,sensor,33
+LS3 Lichtschranke 17 verschmutzt,459,sensor,13
+QS7 Pruefung 16 nicht in Ordnung,460,quality,192
+QS6 Pruefung 18 nicht in Ordnung,461,quality,35
+QS3 Pruefung 15 nicht in Ordnung,462,quality,154
+QS3 Pruefung 12 nicht in Ordnung,463,quality,19
+FB6 Foerderband 16 Sensor dauernd belegt,464,conveyor,514
+SM2 Schmierung 13 Intervall abgelaufen,465,media,42
+SM5 Schmierung 13 Intervall abgelaufen,466,media,36
+SM2 Schmierung 15 Intervall abgelaufen,466,media,6
+SM2 Schmierung 16 Intervall abgelaufen,466,media,1
+SM3 Schmierung 5 Intervall abgelaufen,467,media,52
+SM3 Schmierung 7 Intervall abgelaufen,467,media,2
+HY7 Hydraulik 3 Druck zu niedrig,468,media,109
+HY7 Hydraulik 7 Druck zu niedrig,469,media,9
+LK6 Leckage 16 erkannt,470,media,17
+PU9 Puffer 18 leer,471,buffer,25
+LA5 Auslagern 6 blockiert,472,buffer,12
+NW2 Teilnehmer 8 Kommunikation gestoert,473,misc,6
+NW6 Teilnehmer 3 Kommunikation gestoert,473,misc,6
+NW3 Teilnehmer 8 Kommunikation gestoert,473,misc,1
+SE3 Sensor 14 Abgleich erforderlich,474,sensor,331
+SE9 Sensor 1 Abgleich erforderlich,475,sensor,28
+SA5 Achse 4 nicht referenziert,476,drive,20
+SA6 Achse 10 nicht referenziert,477,drive,14
+SA6 Achse 8 nicht referenziert,477,drive,7
+SA6 Achse 7 nicht referenziert,477,drive,2
+BR7 Haltebremse Achse 18 oeffnet nicht,478,drive,70
+BR7 Haltebremse Achse 19 oeffnet nicht,479,drive,486
+SM5 Schmierung 2 Intervall abgelaufen,480,media,29
+HY3 Hydraulik 3 Druck zu niedrig,481,media,23
+HY9 Hydraulik 13 Druck zu niedrig,482,media,16
+LK7 Leckage 10 erkannt,483,media,7
+LK3 Leckage 10 erkannt,484,media,14
+LK3 Leckage 15 erkannt,484,media,14
+LK4 Leckage 20 erkannt,484,media,4
+PU9 Puffer 6 leer,485,buffer,100
+OR6 Wartung Station 8 geplant,486,organization,40
+SE1 Sensor 17 Abgleich erforderlich,487,sensor,5
+SE4 Sensor 17 Abgleich erforderlich,488,sensor,55
+SE3 Sensor 8 Abgleich erforderlich,489,sensor,112
+SA6 Achse 3 nicht referenziert,490,drive,29
+SA4 Achse 6 nicht referenziert,491,drive,13
+SA8 Achse 5 nicht referenziert,492,drive,12
+SA1 Achse 8 Schleppabstand zu gross,493,drive,52
+SPN3 Spanner 12 Endlage zu fehlt,494,clamp,43
+SPN7 Spanner 5 Endlage zu fehlt,495,clamp,12
+SPN6 Spanner 10 Endlage zu fehlt,495,clamp,5
+QS1 Pruefung 2 nicht in Ordnung,496,quality,95
+QS1 Pruefung 4 nicht in Ordnung,497,quality,17
+QS2 Pruefung 8 nicht in Ordnung,498,quality,124
+FB5 Foerderband 16 Sensor dauernd belegt,499,conveyor,28
+AB2 Absaugung 17 Unterdruck fehlt,500,media,50
+HY4 Hydraulik 4 Druck zu niedrig,501,media,8
+HY9 Hydraulik 3 Druck zu niedrig,502,media,11
+HY2 Hydraulik 3 Druck zu niedrig,502,media,2
+HY1 Hydraulik 3 Druck zu niedrig,502,media,1
+HY5 Hydraulik 4 Druck zu niedrig,503,media,14
+HY6 Hydraulik 14 Druck zu niedrig,503,media,7
+PU3 Puffer 13 leer,504,buffer,232
+OR2 Werker 2 Eingriff angefordert,505,organization,4
+ZH8 Zweihandbedienung 8 gestoert,506,safety,50
+OR1 Schichtwechsel Bereich 15,507,organization,10
+OR6 Schichtwechsel Bereich 14,507,organization,8
+OR5 Schichtwechsel Bereich 13,507,organization,1
+FB2 Foerderband 10 Sensor dauernd belegt,508,conveyor,19
+FB1 Foerderband 8 Sensor dauernd belegt,509,conveyor,32
+HY8 Hydraulik 4 Druck zu niedrig,510,media,18
+PU5 Puffer 16 leer,511,buffer,36
+PU2 Puffer 15 leer,511,buffer,5
+PU9 Puffer 13 leer,511,buffer,2
+MA8 Material 11 fehlt am Platz,512,organization,62
+MA7 Material 15 fehlt am Platz,512,organization,1
+MA5 Material 1 fehlt am Platz,513,organization,13
+MA6 Material 1 fehlt am Platz,513,organization,3
+MA1 Material 9 fehlt am Platz,513,organization,1
+SE8 Sensor 18 Abgleich erforderlich,514,sensor,64
+SE4 Sensor 12 Abgleich erforderlich,515,sensor,178
+SE5 Sensor 12 Abgleich erforderlich,516,sensor,99
+SE7 Sensor 4 Abgleich erforderlich,517,sensor,37
+SA5 Achse 17 Schleppabstand zu gross,518,drive,77
+SA5 Achse 19 Schleppabstand zu gross,519,drive,15
+SA5 Achse 20 Schleppabstand zu gross,519,drive,1
+SPN1 Spanner 19 Endlage zu fehlt,520,clamp,12
+SPN1 Spanner 9 Endlage zu fehlt,521,clamp,38
+SPN3 Spanner 5 Endlage auf fehlt,522,clamp,98
+SPN2 Spanner 6 Endlage auf fehlt,523,clamp,7
+SPN3 Spanner 6 Endlage auf fehlt,523,clamp,5
+QS1 Pruefung 11 nicht in Ordnung,524,quality,101
+FB3 Foerderband 3 Sensor dauernd belegt,525,conveyor,18
+FB3 Foerderband 2 Sensor dauernd belegt,526,conveyor,155
+FB1 Foerderband 5 Sensor dauernd belegt,527,conveyor,44
+FB4 Foerderband 3 Sensor dauernd belegt,528,conveyor,27
+FB5 Foerderband 20 Sensor dauernd belegt,529,conveyor,373
+FB1 Foerderband 9 Sensor dauernd belegt,530,conveyor,26
+FB6 Foerderband 20 Sensor dauernd belegt,531,conveyor,6
+FB3 Foerderband 13 Sensor dauernd belegt,532,conveyor,588
+AB1 Absaugung 17 Unterdruck fehlt,533,media,3
+AB2 Absaugung 15 Unterdruck fehlt,534,media,8
+AB4 Absaugung 10 Unterdruck fehlt,535,media,160
+AB8 Absaugung 10 Unterdruck fehlt,535,media,1
+SM7 Schmierung 4 Intervall abgelaufen,536,media,11
+SM6 Schmierung 5 Intervall abgelaufen,536,media,2
+SM7 Schmierung 5 Intervall abgelaufen,537,media,29
+SM7 Schmierung 7 Intervall abgelaufen,537,media,3
+PU4 Puffer 20 leer,538,buffer,281
+PU1 Puffer 19 leer,539,buffer,13
+OR8 Schichtwechsel Bereich 16,540,organization,350
+KA1 Kamera 2 Auswertung nicht moeglich,541,sensor,18
+KA2 Kamera 1 Auswertung nicht moeglich,542,sensor,16
+KA2 Kamera 12 Auswertung nicht moeglich,542,sensor,10
+SE6 Sensor 7 Abgleich erforderlich,543,sensor,281
+SE6 Sensor 8 Abgleich erforderlich,544,sensor,1240
+SE6 Sensor 1 Abgleich erforderlich,545,sensor,166
+SE7 Sensor 1 Abgleich erforderlich,545,sensor,5
+RB1 Roboter 11 nicht in Grundstellung,546,robot,349
+RB1 Roboter 16 nicht in Grundstellung,547,robot,61
+RB1 Roboter 2 nicht in Grundstellung,547,robot,6
+RB1 Roboter 5 nicht in Grundstellung,547,robot,2
+SA6 Achse 12 Schleppabstand zu gross,548,drive,52
+SA6 Achse 19 Schleppabstand zu gross,549,drive,47
+SPN7 Spanner 10 Endlage auf fehlt,550,clamp,31
+SPN9 Spanner 1 Endlage zu fehlt,550,clamp,7
+SPN8 Spanner 19 Endlage zu fehlt,551,clamp,12
+SPN6 Spanner 12 Endlage zu fehlt,551,clamp,3
+QS1 Pruefung 18 nicht in Ordnung,552,quality,25
+QS2 Pruefung 20 nicht in Ordnung,553,quality,42
+QS2 Pruefung 5 nicht in Ordnung,554,quality,54
+QS2 Pruefung 6 nicht in Ordnung,554,quality,5
+HY5 Hydraulik 16 Druck zu niedrig,555,media,58
+OR6 Schichtwechsel Bereich 13,556,organization,10
+OR1 Schichtwechsel Bereich 16,557,organization,11
+OR1 Schichtwechsel Bereich 18,557,organization,4
+SR9 Sicherheitsrelais 14 hat abgeschaltet,558,safety,25
+KA7 Kamera 17 Auswertung nicht moeglich,559,sensor,16
+KA1 Kamera 20 Auswertung nicht moeglich,560,sensor,21
+KA1 Kamera 10 Auswertung nicht moeglich,560,sensor,8
+KA7 Kamera 10 Auswertung nicht moeglich,560,sensor,3
+SE1 Sensor 20 Abgleich erforderlich,561,sensor,31
+SA9 Achse 18 nicht referenziert,562,drive,10
+BR6 Haltebremse Achse 9 oeffnet nicht,563,drive,59
+BR6 Haltebremse Achse 3 oeffnet nicht,564,drive,11
+BR5 Haltebremse Achse 18 oeffnet nicht,564,drive,7
+BR6 Haltebremse Achse 18 oeffnet nicht,564,drive,2
+BR8 Haltebremse Achse 4 oeffnet nicht,564,drive,2
+SPN3 Spanner 12 Endlage auf fehlt,565,clamp,36
+SPN2 Spanner 12 Endlage auf fehlt,565,clamp,7
+SPN3 Spanner 7 Endlage auf fehlt,565,clamp,2
+QS1 Pruefung 10 nicht in Ordnung,566,quality,50
+AB5 Absaugung 16 Unterdruck fehlt,567,media,16
+AB5 Absaugung 17 Unterdruck fehlt,567,media,9
+AB6 Absaugung 20 Unterdruck fehlt,567,media,7
+AB5 Absaugung 19 Unterdruck fehlt,567,media,4
+HY9 Hydraulik 10 Druck zu niedrig,568,media,31
+HY4 Hydraulik 9 Druck zu niedrig,569,media,113
+HY5 Hydraulik 14 Druck zu niedrig,569,media,11
+HY2 Hydraulik 7 Druck zu niedrig,569,media,10
+OR4 Werker 1 Eingriff angefordert,570,organization,6
+OR2 Werker 1 Eingriff angefordert,570,organization,5
+MW7 Messwert 15 unplausibel,571,quality,58
+MW7 Messwert 7 unplausibel,572,quality,38
+MW7 Messwert 17 unplausibel,573,quality,293
+MW7 Messwert 16 unplausibel,574,quality,89
+FB2 Foerderband 19 Stau erkannt,575,conveyor,9
+FB2 Foerderband 11 Stau erkannt,575,conveyor,3
+MA8 Material 18 fehlt am Platz,576,organization,15
+MA6 Material 12 fehlt am Platz,576,organization,5
+MA8 Material 15 fehlt am Platz,576,organization,3
+SR2 Sicherheitsrelais 12 hat abgeschaltet,577,safety,24
+SR1 Sicherheitsrelais 19 hat abgeschaltet,577,safety,3
+SR9 Sicherheitsrelais 16 hat abgeschaltet,577,safety,2
+BR9 Haltebremse Achse 2 oeffnet nicht,579,drive,37
+SPN2 Spanner 9 Endlage auf fehlt,580,clamp,37
+SPN2 Spanner 19 Endlage auf fehlt,580,clamp,9
+HY8 Hydraulik 13 Druck zu niedrig,583,media,16
+HY9 Hydraulik 7 Druck zu niedrig,584,media,55
+HY9 Hydraulik 5 Druck zu niedrig,584,media,7
+HY5 Hydraulik 19 Druck zu niedrig,585,media,1140
+SY8 Meldung 4 ohne Text,586,misc,18
+SY7 Meldung 5 ohne Text,586,misc,1
+SY8 Meldung 10 ohne Text,586,misc,1
+MA9 Material 13 fehlt am Platz,587,organization,309
+MA9 Material 14 fehlt am Platz,588,organization,16
+SR4 Sicherheitsrelais 16 hat abgeschaltet,589,safety,8
+SR3 Sicherheitsrelais 19 hat abgeschaltet,589,safety,1
+SE6 Sensor 3 Abgleich erforderlich,590,sensor,12
+SE5 Sensor 19 Abgleich erforderlich,591,sensor,17
+SE4 Sensor 6 Abgleich erforderlich,592,sensor,22
+SE1 Sensor 18 Abgleich erforderlich,593,sensor,181
+SA8 Achse 6 nicht referenziert,594,drive,34
+SA9 Achse 14 nicht referenziert,595,drive,6
+SA8 Achse 19 nicht referenziert,595,drive,3
+SA9 Achse 13 nicht referenziert,595,drive,2
+BR8 Haltebremse Achse 7 oeffnet nicht,596,drive,19
+SA9 Achse 2 Schleppabstand zu gross,597,drive,35
+SPN9 Spanner 16 Endlage auf fehlt,598,clamp,73
+AB5 Absaugung 10 Unterdruck fehlt,599,media,11
+AB6 Absaugung 9 Unterdruck fehlt,599,media,11
+SM2 Schmierung 4 Intervall abgelaufen,600,media,147
+SM4 Schmierung 2 Intervall abgelaufen,601,media,17
+HY9 Hydraulik 1 Druck zu niedrig,602,media,12
+FB1 Foerderband 11 Stau erkannt,603,conveyor,108
+SY5 Meldung 4 ohne Text,604,misc,13
+SY6 Meldung 7 ohne Text,604,misc,1
+SY9 Meldung 3 ohne Text,605,misc,3
+OR6 Wartung Station 5 geplant,606,organization,7
+OR8 Wartung Station 5 geplant,606,organization,7
+SA9 Achse 20 nicht referenziert,607,drive,69
+SA8 Achse 16 nicht referenziert,608,drive,12
+SA8 Achse 10 nicht referenziert,609,drive,18
+BR5 Haltebremse Achse 17 oeffnet nicht,610,drive,28
+BR4 Haltebremse Achse 9 oeffnet nicht,611,drive,21
+AB5 Absaugung 4 Unterdruck fehlt,612,media,10
+AB5 Absaugung 8 Unterdruck fehlt,613,media,22
+HY3 Hydraulik 9 Druck zu niedrig,614,media,418
+HY3 Hydraulik 8 Druck zu niedrig,614,media,1
+MW3 Messwert 12 unplausibel,615,quality,14
+ZH9 Zweihandbedienung 9 gestoert,616,safety,27
+NW9 Teilnehmer 13 Kommunikation gestoert,617,misc,21
+NW8 Teilnehmer 11 Kommunikation gestoert,617,misc,4
+NW8 Teilnehmer 13 Kommunikation gestoert,617,misc,4
+NW9 Teilnehmer 11 Kommunikation gestoert,617,misc,3
+LS9 Lichtschranke 9 verschmutzt,618,sensor,64
+LS1 Lichtschranke 9 verschmutzt,619,sensor,45
+LS9 Lichtschranke 3 verschmutzt,620,sensor,55
+LS8 Lichtschranke 9 verschmutzt,621,sensor,19
+LS9 Lichtschranke 8 verschmutzt,621,sensor,3
+SA9 Achse 4 nicht referenziert,622,drive,49
+SA8 Achse 4 nicht referenziert,623,drive,13
+SA9 Achse 9 nicht referenziert,623,drive,3
+SA9 Achse 6 nicht referenziert,623,drive,1
+SA9 Achse 1 Schleppabstand zu gross,624,drive,18
+SA8 Achse 1 Schleppabstand zu gross,625,drive,31
+HY2 Hydraulik 10 Druck zu niedrig,626,media,8
+HY1 Hydraulik 11 Druck zu niedrig,626,media,3
+HY1 Hydraulik 14 Druck zu niedrig,627,media,11
+HY3 Hydraulik 15 Druck zu niedrig,627,media,4
+MW1 Messwert 18 unplausibel,628,quality,32
+ZH3 Zweihandbedienung 5 gestoert,629,safety,37
+LA3 Auslagern 15 blockiert,630,buffer,54
+FB5 Foerderband 17 Stau erkannt,631,conveyor,125
+NW6 Teilnehmer 13 Kommunikation gestoert,632,misc,17
+NW2 Teilnehmer 9 Kommunikation gestoert,632,misc,7
+NW6 Teilnehmer 19 Kommunikation gestoert,632,misc,6
+NW4 Teilnehmer 13 Kommunikation gestoert,632,misc,5
+NW1 Teilnehmer 9 Kommunikation gestoert,632,misc,2
+NW1 Teilnehmer 11 Kommunikation gestoert,632,misc,1
+NW2 Teilnehmer 10 Kommunikation gestoert,632,misc,1
+NW6 Teilnehmer 4 Kommunikation gestoert,633,misc,36
+NW3 Teilnehmer 7 Kommunikation gestoert,633,misc,3
+NW1 Teilnehmer 7 Kommunikation gestoert,633,misc,1
+NW6 Teilnehmer 5 Kommunikation gestoert,633,misc,1
+SR2 Sicherheitsrelais 15 hat abgeschaltet,634,safety,23
+SR1 Sicherheitsrelais 15 hat abgeschaltet,634,safety,2
+SR3 Sicherheitsrelais 11 hat abgeschaltet,635,safety,27
+SR4 Sicherheitsrelais 9 hat abgeschaltet,636,safety,10
+SA9 Achse 16 Schleppabstand zu gross,637,drive,21
+SA8 Achse 16 Schleppabstand zu gross,637,drive,8
+SA8 Achse 11 Schleppabstand zu gross,638,drive,6
+SA9 Achse 11 Schleppabstand zu gross,638,drive,5
+AB5 Absaugung 1 Unterdruck fehlt,639,media,14
+AB3 Absaugung 7 Unterdruck fehlt,639,media,6
+AB4 Absaugung 3 Unterdruck fehlt,639,media,3
+OR2 Werker 6 Eingriff angefordert,640,organization,20
+OR4 Werker 4 Eingriff angefordert,640,organization,1
+ZH8 Zweihandbedienung 11 gestoert,641,safety,46
+NA2 Nacharbeit 3 angefordert,642,quality,24
+SR2 Sicherheitsrelais 13 hat abgeschaltet,643,safety,46
+SR8 Sicherheitsrelais 14 hat abgeschaltet,644,safety,16
+KA7 Kamera 14 Auswertung nicht moeglich,645,sensor,7
+KA7 Kamera 16 Auswertung nicht moeglich,645,sensor,7
+BR6 Haltebremse Achse 11 oeffnet nicht,646,drive,27
+OR1 Werker 9 Eingriff angefordert,647,organization,7
+MW2 Messwert 11 unplausibel,648,quality,135
+MW5 Messwert 11 unplausibel,649,quality,22
+ZH1 Zweihandbedienung 19 gestoert,650,safety,10
+OR9 Wartung Station 20 geplant,651,organization,220
+OR9 Wartung Station 12 geplant,651,organization,4
+KA6 Kamera 14 Auswertung nicht moeglich,652,sensor,3
+KA6 Kamera 12 Auswertung nicht moeglich,653,sensor,61
+BR6 Haltebremse Achse 14 oeffnet nicht,654,drive,62
+BR5 Haltebremse Achse 8 oeffnet nicht,655,drive,43
+SA9 Achse 5 Schleppabstand zu gross,656,drive,53
+SA8 Achse 8 Schleppabstand zu gross,657,drive,93
+SA9 Achse 10 Schleppabstand zu gross,657,drive,4
+SPN7 Spanner 16 Endlage auf fehlt,658,clamp,49
+SPN7 Spanner 13 Endlage auf fehlt,659,clamp,55
+AB1 Absaugung 7 Unterdruck fehlt,660,media,34
+AB2 Absaugung 4 Unterdruck fehlt,661,media,298
+MW9 Messwert 19 unplausibel,662,quality,7
+MW2 Messwert 19 unplausibel,663,quality,28
+MW1 Messwert 20 unplausibel,663,quality,10
+MW1 Messwert 14 unplausibel,663,quality,6
+MW5 Messwert 19 unplausibel,664,quality,20
+LA3 Auslagern 3 blockiert,665,buffer,26
+NA8 Nacharbeit 1 angefordert,666,quality,5
+FB3 Foerderband 17 Stau erkannt,667,conveyor,4055
+LK8 Leckage 7 erkannt,668,media,79
+LK8 Leckage 2 erkannt,668,media,1
+SA5 Achse 5 Schleppabstand zu gross,669,drive,93
+MW1 Messwert 12 unplausibel,670,quality,141
+MW8 Messwert 12 unplausibel,670,quality,2
+NA4 Nacharbeit 3 angefordert,672,quality,22
+NA5 Nacharbeit 3 angefordert,673,quality,20
+NA2 Nacharbeit 2 angefordert,674,quality,59
+DR2 Druckluft 13 unter Mindestdruck,675,pneumatic,29
+DR2 Druckluft 14 unter Mindestdruck,676,pneumatic,610
+DR8 Druckluft 5 unter Mindestdruck,677,pneumatic,79
+OR8 Wartung Station 20 geplant,678,organization,12
+OR7 Wartung Station 20 geplant,678,organization,1
+OR6 Wartung Station 19 geplant,679,organization,20
+SA7 Achse 2 Schleppabstand zu gross,680,drive,12
+SA7 Achse 5 Schleppabstand zu gross,681,drive,7
+SA6 Achse 9 Schleppabstand zu gross,682,drive,28
+SA5 Achse 8 Schleppabstand zu gross,683,drive,22
+SA5 Achse 9 Schleppabstand zu gross,683,drive,3
+MW8 Messwert 18 unplausibel,684,quality,8
+LA6 Auslagern 6 blockiert,685,buffer,19
+FB8 Foerderband 15 Stau erkannt,686,conveyor,89
+FB4 Foerderband 18 Stau erkannt,686,conveyor,15
+FB8 Foerderband 16 Stau erkannt,687,conveyor,158
+FB6 Foerderband 19 Stau erkannt,688,conveyor,82
+LK9 Leckage 3 erkannt,689,media,15
+KA7 Kamera 6 Auswertung nicht moeglich,690,sensor,30
+OR5 Werker 10 Eingriff angefordert,691,organization,13
+OR3 Werker 13 Eingriff angefordert,692,organization,9
+MW6 Messwert 12 unplausibel,693,quality,65
+NA3 Nacharbeit 6 angefordert,694,quality,66
+FB1 Foerderband 2 Stau erkannt,695,conveyor,887
+MW8 Messwert 17 unplausibel,696,quality,278
+MW6 Messwert 19 unplausibel,697,quality,11
+ZH2 Zweihandbedienung 1 gestoert,698,safety,6
+ZH3 Zweihandbedienung 4 gestoert,699,safety,9
+DR9 Druckluft 16 unter Mindestdruck,700,pneumatic,18
+DR8 Druckluft 19 unter Mindestdruck,701,pneumatic,29
+DR8 Druckluft 9 unter Mindestdruck,702,pneumatic,1002
+DR8 Druckluft 17 unter Mindestdruck,702,pneumatic,1
+NP3 Nullpunktspanner 3 nicht gespannt,703,clamp,14
+OR8 Wartung Station 15 geplant,704,organization,29
+OR6 Wartung Station 15 geplant,704,organization,7
+OR9 Wartung Station 16 geplant,704,organization,4
+KA2 Kamera 6 Auswertung nicht moeglich,705,sensor,292
+KA2 Kamera 7 Auswertung nicht moeglich,706,sensor,82
+FB5 Foerderband 1 Stau erkannt,707,conveyor,29
+LV8 Lichtvorhang 1 unterbrochen,708,safety,21
+OR6 Wartung Station 9 geplant,709,organization,29
+OR6 Wartung Station 10 geplant,710,organization,7
+KA4 Kamera 14 Auswertung nicht moeglich,711,sensor,68
+ZH1 Zweihandbedienung 7 gestoert,712,safety,16
+ZH8 Zweihandbedienung 1 gestoert,712,safety,13
+FB7 Foerderband 19 Stau erkannt,713,conveyor,161
+LA2 Einlagern 10 nicht freigegeben,714,buffer,82
+LA3 Einlagern 20 nicht freigegeben,715,buffer,10
+KA7 Kamera 9 Auswertung nicht moeglich,716,sensor,21
+KA8 Kamera 4 Auswertung nicht moeglich,717,sensor,30
+KA6 Kamera 4 Auswertung nicht moeglich,717,sensor,2
+OR2 Werker 8 Eingriff angefordert,718,organization,111
+OR4 Werker 5 Eingriff angefordert,718,organization,9
+NA5 Nacharbeit 4 angefordert,719,quality,57
+FB5 Foerderband 5 Stau erkannt,720,conveyor,16
+FB7 Foerderband 9 Stau erkannt,720,conveyor,3
+DR4 Druckluft 1 unter Mindestdruck,721,pneumatic,13
+DR9 Druckluft 1 unter Mindestdruck,722,pneumatic,60
+DR7 Druckluft 2 unter Mindestdruck,722,pneumatic,3
+KA4 Kamera 12 Auswertung nicht moeglich,723,sensor,12
+KA4 Kamera 19 Auswertung nicht moeglich,724,sensor,53
+KA8 Kamera 8 Auswertung nicht moeglich,725,sensor,69
+KA8 Kamera 6 Auswertung nicht moeglich,726,sensor,147
+OR3 Werker 19 Eingriff angefordert,727,organization,6
+OR4 Werker 19 Eingriff angefordert,727,organization,1
+FB9 Foerderband 3 Stau erkannt,728,conveyor,14
+FB9 Foerderband 2 Stau erkannt,729,conveyor,435
+FB3 Foerderband 12 Stau erkannt,729,conveyor,5
+LV7 Lichtvorhang 3 unterbrochen,730,safety,30
+LV7 Lichtvorhang 9 unterbrochen,730,safety,1
+LV2 Lichtvorhang 2 unterbrochen,731,safety,633
+OR4 Werker 20 Eingriff angefordert,732,organization,42
+OR3 Werker 16 Eingriff angefordert,733,organization,30
+ZH9 Zweihandbedienung 15 gestoert,734,safety,11
+ZH9 Zweihandbedienung 14 gestoert,734,safety,1
+ZH5 Zweihandbedienung 20 gestoert,735,safety,14
+ZH1 Zweihandbedienung 13 gestoert,736,safety,10
+ZH2 Zweihandbedienung 15 gestoert,736,safety,4
+ZH1 Zweihandbedienung 10 gestoert,737,safety,23
+ZH1 Zweihandbedienung 3 gestoert,737,safety,2
+DR2 Druckluft 6 unter Mindestdruck,738,pneumatic,73
+LV7 Lichtvorhang 1 unterbrochen,739,safety,20
+MW3 Messwert 2 unplausibel,740,quality,250
+NA8 Nacharbeit 3 angefordert,741,quality,236
+LV7 Lichtvorhang 20 unterbrochen,743,safety,23
+LV6 Lichtvorhang 1 unterbrochen,744,safety,19
+LV7 Lichtvorhang 11 unterbrochen,746,safety,60
+LV7 Lichtvorhang 13 unterbrochen,747,safety,13
+LV7 Lichtvorhang 16 unterbrochen,747,safety,8
+LV7 Lichtvorhang 14 unterbrochen,747,safety,2
+LV6 Lichtvorhang 13 unterbrochen,748,safety,167
+LV6 Lichtvorhang 15 unterbrochen,749,safety,134
+LV3 Lichtvorhang 15 unterbrochen,750,safety,43
+LV2 Lichtvorhang 14 unterbrochen,751,safety,17
+LV2 Lichtvorhang 18 unterbrochen,751,safety,7
+LV2 Lichtvorhang 15 unterbrochen,751,safety,4
+WT6 Werkstuecktraeger 14 nicht gelesen,752,conveyor,26
+TL4 Toleranz 3 ueberschritten,753,quality,43
+TL3 Toleranz 1 ueberschritten,754,quality,50
+TL2 Toleranz 3 ueberschritten,755,quality,140
+TL4 Toleranz 4 ueberschritten,756,quality,104
+LV5 Lichtvorhang 15 unterbrochen,757,safety,65
+OR9 Werker 16 Eingriff angefordert,758,organization,16
+OR5 Werker 14 Eingriff angefordert,758,organization,2
+OR6 Werker 20 Eingriff angefordert,758,organization,1
+NA8 Nacharbeit 6 angefordert,759,quality,12
+OR5 Werker 11 Eingriff angefordert,760,organization,44
+NA7 Nacharbeit 16 angefordert,761,quality,22
+NA6 Nacharbeit 13 angefordert,762,quality,17
+NA6 Nacharbeit 16 angefordert,762,quality,16
+NA7 Nacharbeit 17 angefordert,763,quality,112
+FB4 Foerderband 12 Stau erkannt,764,conveyor,8
+FB5 Foerderband 11 Stau erkannt,765,conveyor,1351
+LV1 Lichtvorhang 7 unterbrochen,766,safety,65
+LV1 Lichtvorhang 17 unterbrochen,767,safety,21
+GR7 Greifer 5 meldet kein Teil,768,robot,31
+GR7 Greifer 3 meldet kein Teil,769,robot,20
+GR3 Greifer 14 meldet kein Teil,770,robot,21
+LA2 Auslagern 2 blockiert,771,buffer,45
+LA5 Auslagern 10 blockiert,772,buffer,336
+OR4 Werker 9 Eingriff angefordert,773,organization,4
+OR2 Werker 9 Eingriff angefordert,774,organization,17
+OR4 Werker 7 Eingriff angefordert,774,organization,2
+NA6 Nacharbeit 19 angefordert,775,quality,70
+NA7 Nacharbeit 19 angefordert,775,quality,1
+NA5 Nacharbeit 14 angefordert,776,quality,62
+NA2 Nacharbeit 15 angefordert,777,quality,15
+NA4 Nacharbeit 15 angefordert,777,quality,8
+LA1 Auslagern 15 blockiert,778,buffer,190
+LA9 Auslagern 16 blockiert,778,buffer,1
+LV9 Lichtvorhang 5 unterbrochen,779,safety,5
+GR6 Greifer 2 meldet kein Teil,780,robot,244
+NA6 Nacharbeit 6 angefordert,781,quality,24
+TL8 Toleranz 2 ueberschritten,782,quality,83
+OR8 Werker 5 Eingriff angefordert,783,organization,37
+NA7 Nacharbeit 6 angefordert,785,quality,256
+NA6 Nacharbeit 5 angefordert,786,quality,69
+TL3 Toleranz 13 ueberschritten,787,quality,68
+LV1 Lichtvorhang 20 unterbrochen,788,safety,181
+LV8 Lichtvorhang 20 unterbrochen,788,safety,25
+LV1 Lichtvorhang 2 unterbrochen,788,safety,20
+LV1 Lichtvorhang 15 unterbrochen,789,safety,106
+LV9 Lichtvorhang 19 unterbrochen,789,safety,8
+GR3 Greifer 8 meldet kein Teil,790,robot,21
+GR1 Greifer 8 meldet kein Teil,790,robot,14
+ZY5 Zylinder 14 Endlage hinten nicht erreicht,791,pneumatic,39
+ZY8 Zylinder 16 Endlage hinten nicht erreicht,791,pneumatic,8
+TL9 Toleranz 13 ueberschritten,792,quality,58
+ZH7 Zweihandbedienung 10 gestoert,793,safety,26
+ZH5 Zweihandbedienung 8 gestoert,793,safety,8
+OR9 Werker 2 Eingriff angefordert,794,organization,14
+ZH4 Zweihandbedienung 9 gestoert,795,safety,2
+GR9 Greifer 13 meldet kein Teil,796,robot,36
+GR9 Greifer 19 meldet kein Teil,797,robot,126
+GR3 Greifer 19 meldet kein Teil,798,robot,429
+ZY2 Zylinder 18 Endlage hinten nicht erreicht,799,pneumatic,26
+TL2 Toleranz 6 ueberschritten,800,quality,22
+TL2 Toleranz 20 ueberschritten,801,quality,24
+OR6 Werker 13 Eingriff angefordert,802,organization,58
+OR6 Werker 12 Eingriff angefordert,803,organization,18
+OR9 Werker 4 Eingriff angefordert,804,organization,44
+OR1 Werker 5 Eingriff angefordert,805,organization,11
+OR9 Werker 1 Eingriff angefordert,805,organization,8
+OR1 Werker 12 Eingriff angefordert,806,organization,43
+OR1 Werker 13 Eingriff angefordert,807,organization,27
+OR1 Werker 15 Eingriff angefordert,807,organization,10
+ZH6 Zweihandbedienung 9 gestoert,808,safety,41
+ZH4 Zweihandbedienung 8 gestoert,809,safety,21
+ZH2 Zweihandbedienung 5 gestoert,809,safety,2
+ZH2 Zweihandbedienung 6 gestoert,809,safety,2
+ZH7 Zweihandbedienung 11 gestoert,810,safety,47
+ZH6 Zweihandbedienung 12 gestoert,810,safety,2
+GR8 Greifer 12 meldet kein Teil,811,robot,31
+NP2 Nullpunktspanner 19 nicht gespannt,812,clamp,35
+NP1 Nullpunktspanner 2 nicht gespannt,812,clamp,6
+ZY9 Zylinder 20 Endlage vorn nicht erreicht,813,pneumatic,11
+ZY8 Zylinder 19 Endlage vorn nicht erreicht,813,pneumatic,5
+ZY9 Zylinder 18 Endlage vorn nicht erreicht,813,pneumatic,4
+ZY3 Zylinder 12 Endlage vorn nicht erreicht,813,pneumatic,1
+ZY9 Zylinder 12 Endlage vorn nicht erreicht,813,pneumatic,1
+TL7 Toleranz 10 ueberschritten,814,quality,57
+TL7 Toleranz 17 ueberschritten,815,quality,46
+LA1 Auslagern 20 blockiert,817,buffer,51
+LA2 Auslagern 12 blockiert,818,buffer,59
+NP3 Nullpunktspanner 18 nicht gespannt,819,clamp,77
+NP3 Nullpunktspanner 11 nicht gespannt,820,clamp,9
+NP3 Nullpunktspanner 19 nicht gespannt,820,clamp,4
+NP5 Nullpunktspanner 6 nicht gespannt,821,clamp,38
+ZY2 Zylinder 11 Endlage vorn nicht erreicht,822,pneumatic,27
+ID2 Bauteilkennung 18 nicht lesbar,823,quality,41
+ID2 Bauteilkennung 7 nicht lesbar,824,quality,51
+ID2 Bauteilkennung 15 nicht lesbar,824,quality,8
+TL7 Toleranz 12 ueberschritten,825,quality,53
+TL9 Toleranz 5 ueberschritten,826,quality,104
+OR8 Werker 4 Eingriff angefordert,827,organization,19
+OR6 Werker 3 Eingriff angefordert,828,organization,10
+OR6 Werker 2 Eingriff angefordert,828,organization,2
+NA9 Nacharbeit 5 angefordert,829,quality,36
+NA4 Nacharbeit 4 angefordert,830,quality,70
+GR9 Greifer 5 meldet kein Teil,831,robot,25
+GR9 Greifer 6 meldet kein Teil,832,robot,14
+GR8 Greifer 7 meldet kein Teil,832,robot,10
+GR8 Greifer 6 meldet kein Teil,832,robot,8
+NP5 Nullpunktspanner 1 nicht gespannt,833,clamp,30
+NP8 Nullpunktspanner 1 nicht gespannt,833,clamp,10
+ZY1 Zylinder 3 Endlage hinten nicht erreicht,834,pneumatic,39
+ID2 Bauteilkennung 19 nicht lesbar,835,quality,26
+ID2 Bauteilkennung 20 nicht lesbar,836,quality,98
+ID2 Bauteilkennung 3 nicht lesbar,837,quality,43
+ID2 Bauteilkennung 2 nicht lesbar,838,quality,34
+ZY5 Zylinder 6 Endlage hinten nicht erreicht,839,pneumatic,29
+HT7 Hubtisch 6 Position oben fehlt,840,conveyor,118
+TL6 Toleranz 6 ueberschritten,841,quality,70
+TL7 Toleranz 2 ueberschritten,841,quality,7
+NA8 Nacharbeit 14 angefordert,842,quality,78
+ZY8 Zylinder 6 Endlage hinten nicht erreicht,843,pneumatic,46
+ZY5 Zylinder 4 Endlage vorn nicht erreicht,844,pneumatic,522
+ZY5 Zylinder 4 Endlage hinten nicht erreicht,844,pneumatic,16
+TL7 Toleranz 4 ueberschritten,845,quality,128
+TL7 Toleranz 1 ueberschritten,846,quality,266
+MW5 Messwert 2 unplausibel,847,quality,35
+NA3 Nacharbeit 17 angefordert,848,quality,18
+WT4 Werkstuecktraeger 1 nicht gelesen,849,conveyor,41
+KW2 Kuehlwasser 18 Durchfluss gering,850,media,30
+ID7 Bauteilkennung 3 nicht lesbar,851,quality,170
+ID7 Bauteilkennung 10 nicht lesbar,852,quality,35
+ID6 Bauteilkennung 5 nicht lesbar,853,quality,30
+ID7 Bauteilkennung 16 nicht lesbar,854,quality,72
+ID7 Bauteilkennung 14 nicht lesbar,854,quality,3
+MW1 Messwert 6 unplausibel,855,quality,11
+TL3 Toleranz 5 ueberschritten,856,quality,8
+WT4 Werkstuecktraeger 18 nicht gelesen,857,conveyor,17
+WT4 Werkstuecktraeger 12 nicht gelesen,858,conveyor,44
+DR6 Druckluft 16 unter Mindestdruck,859,pneumatic,32
+MW5 Messwert 14 unplausibel,860,quality,23
+ZY2 Zylinder 2 Endlage hinten nicht erreicht,861,pneumatic,25
+ZY1 Zylinder 7 Endlage hinten nicht erreicht,862,pneumatic,15
+WE4 Wartungseinheit 6 Filter zugesetzt,863,pneumatic,61
+LA8 Einlagern 18 nicht freigegeben,864,buffer,63
+LA9 Einlagern 6 nicht freigegeben,864,buffer,5
+MW2 Messwert 9 unplausibel,865,quality,45
+TL9 Toleranz 20 ueberschritten,866,quality,52
+TL9 Toleranz 8 ueberschritten,867,quality,207
+TL9 Toleranz 2 ueberschritten,867,quality,6
+TL8 Toleranz 18 ueberschritten,868,quality,25
+NA3 Nacharbeit 13 angefordert,869,quality,76
+NA2 Nacharbeit 13 angefordert,870,quality,113
+NA8 Nacharbeit 15 angefordert,871,quality,22
+NA8 Nacharbeit 13 angefordert,872,quality,121
+GR4 Greifer 11 meldet kein Teil,873,robot,46
+GR3 Greifer 20 meldet kein Teil,874,robot,24
+NP6 Nullpunktspanner 12 nicht gespannt,875,clamp,57
+NP6 Nullpunktspanner 19 nicht gespannt,876,clamp,61
+ZY2 Zylinder 4 Endlage vorn nicht erreicht,877,pneumatic,28
+ZY2 Zylinder 7 Endlage vorn nicht erreicht,878,pneumatic,264
+ZY8 Zylinder 1 Endlage vorn nicht erreicht,879,pneumatic,21
+NA5 Nacharbeit 20 angefordert,880,quality,26
+WT4 Werkstuecktraeger 7 nicht gelesen,881,conveyor,92
+WT5 Werkstuecktraeger 6 nicht gelesen,882,conveyor,269
+LA7 Einlagern 11 nicht freigegeben,883,buffer,188
+LA5 Einlagern 1 nicht freigegeben,884,buffer,197
+LA4 Einlagern 10 nicht freigegeben,885,buffer,23
+MW5 Messwert 4 unplausibel,886,quality,98
+MW4 Messwert 10 unplausibel,887,quality,16
+TL9 Toleranz 7 ueberschritten,888,quality,39
+ZY1 Zylinder 16 Endlage hinten nicht erreicht,889,pneumatic,27
+ZY3 Zylinder 7 Endlage vorn nicht erreicht,890,pneumatic,99
+ZY3 Zylinder 4 Endlage vorn nicht erreicht,890,pneumatic,11
+LA6 Einlagern 6 nicht freigegeben,891,buffer,39
+LA6 Einlagern 1 nicht freigegeben,892,buffer,23
+LA7 Einlagern 20 nicht freigegeben,892,buffer,3
+MW9 Messwert 3 unplausibel,893,quality,61
+TL2 Toleranz 8 ueberschritten,894,quality,57
+TL8 Toleranz 19 ueberschritten,895,quality,32
+TL3 Toleranz 8 ueberschritten,895,quality,6
+TL4 Toleranz 15 ueberschritten,896,quality,14
+TL4 Toleranz 17 ueberschritten,896,quality,10
+NA1 Nacharbeit 10 angefordert,897,quality,383
+ZY3 Zylinder 11 Endlage hinten nicht erreicht,898,pneumatic,24
+ZY8 Zylinder 11 Endlage vorn nicht erreicht,898,pneumatic,1
+WT2 Werkstuecktraeger 1 nicht gelesen,899,conveyor,64
+WT2 Werkstuecktraeger 7 nicht gelesen,899,conveyor,2
+ID3 Bauteilkennung 12 nicht lesbar,900,quality,43
+ID1 Bauteilkennung 15 nicht lesbar,901,quality,71
+MW3 Messwert 5 unplausibel,902,quality,127
+TL3 Toleranz 19 ueberschritten,903,quality,16
+TL3 Toleranz 12 ueberschritten,904,quality,70
+TL5 Toleranz 14 ueberschritten,905,quality,47
+ZY1 Zylinder 16 Endlage vorn nicht erreicht,906,pneumatic,25
+ZY1 Zylinder 11 Endlage vorn nicht erreicht,907,pneumatic,19
+MW3 Messwert 4 unplausibel,908,quality,234
+MW4 Messwert 16 unplausibel,909,quality,11
+TL8 Toleranz 17 ueberschritten,910,quality,43
+TL3 Toleranz 18 ueberschritten,911,quality,53
+TL5 Toleranz 16 ueberschritten,912,quality,146
+ZY4 Zylinder 4 Endlage vorn nicht erreicht,913,pneumatic,209
+WT2 Werkstuecktraeger 19 nicht gelesen,914,conveyor,22
+ZY6 Zylinder 7 Endlage hinten nicht erreicht,915,pneumatic,24
+ZY6 Zylinder 5 Endlage hinten nicht erreicht,916,pneumatic,61
+ID8 Bauteilkennung 18 nicht lesbar,917,quality,16
+ID8 Bauteilkennung 6 nicht lesbar,917,quality,5
+ID5 Bauteilkennung 5 nicht lesbar,918,quality,98
+MW2 Messwert 6 unplausibel,919,quality,56
+MW4 Messwert 6 unplausibel,920,quality,46
+TL5 Toleranz 19 ueberschritten,921,quality,262
+TL3 Toleranz 11 ueberschritten,922,quality,14
+NA1 Nacharbeit 9 angefordert,923,quality,19
+NA4 Nacharbeit 12 angefordert,924,quality,36
+NA2 Nacharbeit 11 angefordert,925,quality,28
+NA3 Nacharbeit 11 angefordert,925,quality,13
+GR6 Greifer 12 meldet kein Teil,926,robot,31
+GR7 Greifer 15 meldet kein Teil,927,robot,51
+GR1 Greifer 6 meldet kein Teil,927,robot,9
+GR7 Greifer 11 meldet kein Teil,927,robot,1
+WT1 Werkstuecktraeger 15 nicht gelesen,928,conveyor,34
+WT9 Werkstuecktraeger 13 nicht gelesen,929,conveyor,433
+WT3 Werkstuecktraeger 8 nicht gelesen,930,conveyor,84
+WT3 Werkstuecktraeger 9 nicht gelesen,931,conveyor,24
+WE1 Wartungseinheit 3 Filter zugesetzt,932,pneumatic,27
+ZY6 Zylinder 8 Endlage hinten nicht erreicht,933,pneumatic,28
+ID9 Bauteilkennung 5 nicht lesbar,934,quality,54
+ID3 Bauteilkennung 7 nicht lesbar,935,quality,18
+ID3 Bauteilkennung 9 nicht lesbar,936,quality,479
+ID6 Bauteilkennung 1 nicht lesbar,937,quality,92
+ID6 Bauteilkennung 2 nicht lesbar,937,quality,1
+ID6 Bauteilkennung 8 nicht lesbar,937,quality,1
+NA2 Nacharbeit 12 angefordert,938,quality,7
+NA4 Nacharbeit 20 angefordert,939,quality,73
+ZY9 Zylinder 10 Endlage hinten nicht erreicht,940,pneumatic,365
+ZY8 Zylinder 5 Endlage vorn nicht erreicht,940,pneumatic,7
+ZY9 Zylinder 13 Endlage hinten nicht erreicht,940,pneumatic,5
+ZY3 Zylinder 8 Endlage hinten nicht erreicht,941,pneumatic,794
+ZY4 Zylinder 9 Endlage vorn nicht erreicht,941,pneumatic,36
+WT1 Werkstuecktraeger 12 nicht gelesen,942,conveyor,196
+WT1 Werkstuecktraeger 13 nicht gelesen,943,conveyor,78
+WT9 Werkstuecktraeger 18 nicht gelesen,944,conveyor,28
+ZY7 Zylinder 15 Endlage vorn nicht erreicht,945,pneumatic,20
+VE8 Ventil 1 ohne Rueckmeldung,946,pneumatic,25
+ID9 Bauteilkennung 20 nicht lesbar,948,quality,113
+ID9 Bauteilkennung 2 nicht lesbar,949,quality,217
+ID9 Bauteilkennung 18 nicht lesbar,950,quality,27
+ID9 Bauteilkennung 12 nicht lesbar,950,quality,13
+ID1 Bauteilkennung 17 nicht lesbar,951,quality,56
+WT1 Werkstuecktraeger 7 nicht gelesen,952,conveyor,12
+ZY7 Zylinder 13 Endlage hinten nicht erreicht,953,pneumatic,54
+ZY7 Zylinder 14 Endlage hinten nicht erreicht,953,pneumatic,14
+KW8 Kuehlwasser 3 Durchfluss gering,954,media,61
+HT6 Hubtisch 4 Position oben fehlt,955,conveyor,253
+ID9 Bauteilkennung 19 nicht lesbar,956,quality,32
+ID9 Bauteilkennung 9 nicht lesbar,957,quality,84
+WT9 Werkstuecktraeger 7 nicht gelesen,958,conveyor,14
+WT8 Werkstuecktraeger 8 nicht gelesen,959,conveyor,13
+ZY7 Zylinder 3 Endlage vorn nicht erreicht,960,pneumatic,39
+ID1 Bauteilkennung 16 nicht lesbar,961,quality,16
+ID1 Bauteilkennung 12 nicht lesbar,962,quality,16
+ID1 Bauteilkennung 14 nicht lesbar,962,quality,4
+ID1 Bauteilkennung 2 nicht lesbar,963,quality,15
+ZY6 Zylinder 13 Endlage vorn nicht erreicht,964,pneumatic,37
+ZY6 Zylinder 9 Endlage vorn nicht erreicht,965,pneumatic,30
+HT2 Hubtisch 15 Position oben fehlt,966,conveyor,480
+HT9 Hubtisch 8 Position oben fehlt,966,conveyor,246
+HT3 Hubtisch 4 Position oben fehlt,966,conveyor,183
+HT1 Hubtisch 16 Position oben fehlt,966,conveyor,160
+HT1 Hubtisch 7 Position oben fehlt,966,conveyor,139
+HT2 Hubtisch 6 Position oben fehlt,966,conveyor,122
+HT9 Hubtisch 16 Position oben fehlt,966,conveyor,102
+HT9 Hubtisch 9 Position oben fehlt,966,conveyor,61
+HT3 Hubtisch 15 Position oben fehlt,966,conveyor,49
+HT8 Hubtisch 15 Position oben fehlt,966,conveyor,35
+HT9 Hubtisch 19 Position oben fehlt,966,conveyor,25
+HT6 Hubtisch 19 Position oben fehlt,966,conveyor,23
+HT5 Hubtisch 4 Position oben fehlt,966,conveyor,17
+HT5 Hubtisch 17 Position oben fehlt,966,conveyor,2
+HT9 Hubtisch 14 Position oben fehlt,966,conveyor,2
+HT5 Hubtisch 10 Position oben fehlt,967,conveyor,36
+ID4 Bauteilkennung 13 nicht lesbar,968,quality,29
+ID6 Bauteilkennung 18 nicht lesbar,969,quality,36
+ID4 Bauteilkennung 12 nicht lesbar,969,quality,10
+WE7 Wartungseinheit 9 Filter zugesetzt,970,pneumatic,22
+KW3 Kuehlwasser 5 Durchfluss gering,971,media,37
+KW8 Kuehlwasser 6 Durchfluss gering,972,media,22
+ID6 Bauteilkennung 17 nicht lesbar,973,quality,26
+WE1 Wartungseinheit 8 Filter zugesetzt,974,pneumatic,138
+WT5 Werkstuecktraeger 8 nicht gelesen,975,conveyor,19
+ID6 Bauteilkennung 13 nicht lesbar,976,quality,29
+ID6 Bauteilkennung 15 nicht lesbar,977,quality,18
+WE8 Wartungseinheit 1 Filter zugesetzt,978,pneumatic,24
+WE9 Wartungseinheit 1 Filter zugesetzt,978,pneumatic,2
+WE6 Wartungseinheit 9 Filter zugesetzt,979,pneumatic,75
+VE8 Ventil 9 ohne Rueckmeldung,980,pneumatic,30
+VE4 Ventil 12 ohne Rueckmeldung,981,pneumatic,43
+KW7 Kuehlwasser 13 Durchfluss gering,982,media,308
+KW6 Kuehlwasser 16 Durchfluss gering,982,media,6
+KW6 Kuehlwasser 14 Durchfluss gering,982,media,1
+VE8 Ventil 11 ohne Rueckmeldung,983,pneumatic,26
+VE5 Ventil 4 ohne Rueckmeldung,984,pneumatic,57
+KW5 Kuehlwasser 17 Durchfluss gering,985,media,111
+KW9 Kuehlwasser 20 Durchfluss gering,987,media,20
+WE8 Wartungseinheit 11 Filter zugesetzt,988,pneumatic,112
+WE1 Wartungseinheit 11 Filter zugesetzt,989,pneumatic,662
+KW9 Kuehlwasser 15 Durchfluss gering,991,media,34
+KW4 Kuehlwasser 5 Durchfluss gering,992,media,8
+VE6 Ventil 1 ohne Rueckmeldung,993,pneumatic,36
+VE6 Ventil 4 ohne Rueckmeldung,994,pneumatic,20
+VE1 Ventil 14 ohne Rueckmeldung,995,pneumatic,17
+VE2 Ventil 15 ohne Rueckmeldung,995,pneumatic,3
+VE1 Ventil 17 ohne Rueckmeldung,995,pneumatic,1
+KW9 Kuehlwasser 3 Durchfluss gering,996,media,11
+KW8 Kuehlwasser 15 Durchfluss gering,997,media,16
+KW6 Kuehlwasser 15 Durchfluss gering,998,media,14
+KW4 Kuehlwasser 7 Durchfluss gering,999,media,41
+KW5 Kuehlwasser 8 Durchfluss gering,999,media,1
+VE4 Ventil 13 ohne Rueckmeldung,1000,pneumatic,74
+VE5 Ventil 17 ohne Rueckmeldung,1001,pneumatic,47
+VE5 Ventil 19 ohne Rueckmeldung,1001,pneumatic,19
+VE6 Ventil 19 ohne Rueckmeldung,1001,pneumatic,16
+VE5 Ventil 15 ohne Rueckmeldung,1001,pneumatic,8

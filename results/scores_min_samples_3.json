@@ -1,0 +1,39 @@
+{
+  "model1": {
+    "pair_precision": 0.19679668362540043,
+    "pair_recall": 0.44417981542125634,
+    "pair_f1": 0.27274982698510114,
+    "ari": 0.27274346349408585,
+    "alerts": 86306,
+    "chain_alerts": 15341,
+    "clustered_alerts": 12020,
+    "chain_alerts_found": 0.45179584120982985,
+    "clustered_that_are_chain": 0.576622296173045,
+    "clustered_that_are_repeats": 0.4212146422628952
+  },
+  "model2": {
+    "alerts": 86306,
+    "text_clusters": 984,
+    "noise_share": 0.06485064769540938,
+    "distinct_texts": 1781,
+    "ari": 0.09549113151606872,
+    "homogeneity": 0.9403849843348473,
+    "completeness": 0.3745886005775968
+  },
+  "model3": {
+    "alerts": 86306,
+    "final_clusters": 8,
+    "silhouette": 0.1714155317590633,
+    "davies_bouldin": 1.1084694186956596,
+    "ari_vs_family": 0.03475047717708609
+  },
+  "multi_plc": {
+    "alerts_kept": 7786,
+    "clusters": 3344,
+    "mixed_plc_clusters": 1858,
+    "mixed_true_cascade": 0.6167922497308934,
+    "mixed_coincidence": 0.3832077502691066,
+    "coincidences_far_apart": 0.9719101123595506,
+    "true_links_far_apart": 0.06893542757417102
+  }
+}
