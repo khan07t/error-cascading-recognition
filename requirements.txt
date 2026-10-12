@@ -1,0 +1,15 @@
+# pipeline
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+hdbscan>=0.8.33
+torch>=2.1
+transformers>=4.40,<5
+
+# notebooks, dashboard, tests
+matplotlib>=3.7
+jupyter
+dash>=2.14
+plotly>=5.18
+pytest>=7.4

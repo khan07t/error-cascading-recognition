@@ -1,0 +1,12 @@
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+build/
+dist/
+work/
+app_run/
+notebooks/app_demo/
+*.zip
+_bert_tmp/
+hf_cache/
